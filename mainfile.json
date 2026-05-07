@@ -1,0 +1,88 @@
+{
+  "app": "SUBLICONTROL",
+  "config": {
+    "company": "SUBLICONTROL",
+    "logo": "SC",
+    "logoImage": "",
+    "subtitle": "Sublimação, canecas, impressão 3D e laser em um painel leve.",
+    "whatsappMessage": "Olá, seu pedido foi concluído.",
+    "cloudUrl": "",
+    "menus": {
+      "dash": "DASHBOARD",
+      "board": "KANBAN",
+      "stock": "ESTOQUE"
+    },
+    "columns": [
+      "NOVO",
+      "ARTE/MODELAGEM",
+      "PRODUÇÃO",
+      "ACABAMENTO",
+      "PEDIDOS CONCLUIDOS",
+      "PEDIDOS ENTREGUES"
+    ]
+  },
+  "orders": [
+    {
+      "id": "t86gohmfljmovdu6ef",
+      "os": "OS-1001",
+      "client": "Cliente exemplo",
+      "phone": "99999999999",
+      "cat": "Canecas",
+      "product": "Caneca branca 325ml",
+      "qty": 12,
+      "unitCost": 8.5,
+      "extraCost": 0,
+      "margin": 70,
+      "unitPrice": 14.45,
+      "total": 173.4,
+      "paid": 100,
+      "entryDate": "2026-05-07",
+      "date": "2026-05-09",
+      "status": "PEDIDOS CONCLUIDOS",
+      "payment": "Parcial",
+      "prio": "Urgente",
+      "link": "",
+      "notes": "Arte Dia das Mães.",
+      "stockDone": false
+    }
+  ],
+  "stock": [
+    {
+      "id": "nz53wifjckcmovdu6ef",
+      "name": "Caneca branca 325ml",
+      "cat": "Canecas",
+      "qty": 40,
+      "min": 10,
+      "cost": 8.5,
+      "price": 30
+    },
+    {
+      "id": "7dy0hly090umovdu6ef",
+      "name": "Camiseta sublimada",
+      "cat": "Sublimação",
+      "qty": 25,
+      "min": 6,
+      "cost": 22,
+      "price": 55
+    },
+    {
+      "id": "945lnboe2dgmovdu6ef",
+      "name": "Chaveiro corte laser",
+      "cat": "Laser",
+      "qty": 50,
+      "min": 10,
+      "cost": 3,
+      "price": 12
+    },
+    {
+      "id": "x0ri69hnmumovdu6ef",
+      "name": "Miniatura impressão 3D",
+      "cat": "Impressão 3D",
+      "qty": 10,
+      "min": 3,
+      "cost": 12,
+      "price": 35
+    }
+  ],
+  "exportedAt": "2026-05-07T11:33:33.982Z"
+}
