@@ -464,5 +464,36 @@
       "price": 55
     }
   ],
-  "exportedAt": "2026-05-12T21:32:06.497Z"
+  "employees": [
+    {
+      "id": "70bqxvdq2lpmp36bdth",
+      "name": "ARTUR",
+      "role": "SUBLIMADOR",
+      "phone": "8499665522",
+      "rate": 70
+    }
+  ],
+  "dailyEntries": [
+    {
+      "id": "3rawzveyz21mp37gmxs",
+      "employeeId": "70bqxvdq2lpmp36bdth",
+      "type": "Diária",
+      "date": "2026-05-12",
+      "qty": 0.5,
+      "value": 70,
+      "total": 35,
+      "notes": ""
+    },
+    {
+      "id": "ivd7mdmdjrjmp37g9ek",
+      "employeeId": "70bqxvdq2lpmp36bdth",
+      "type": "Adiantamento",
+      "date": "2026-05-05",
+      "qty": 1,
+      "value": 70,
+      "total": 250,
+      "notes": ""
+    }
+  ],
+  "exportedAt": "2026-05-12T22:47:52.448Z"
 }
