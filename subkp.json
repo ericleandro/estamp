@@ -401,6 +401,16 @@
   ],
   "dailyEntries": [
     {
+      "id": "xlov9d150jmp4hwdrf",
+      "employeeId": "70bqxvdq2lpmp36bdth",
+      "type": "Diária",
+      "date": "2026-05-13",
+      "qty": 0.5,
+      "value": 70,
+      "total": 35,
+      "notes": ""
+    },
+    {
       "id": "3rawzveyz21mp37gmxs",
       "employeeId": "70bqxvdq2lpmp36bdth",
       "type": "Diária",
@@ -421,5 +431,5 @@
       "notes": ""
     }
   ],
-  "exportedAt": "2026-05-13T00:33:33.156Z"
+  "exportedAt": "2026-05-13T20:12:21.007Z"
 }
