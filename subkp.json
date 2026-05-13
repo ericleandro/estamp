@@ -30,80 +30,6 @@
   },
   "orders": [
     {
-      "id": "ifuqlnblj3gmp35buhe",
-      "os": "OS-1008",
-      "entryDate": "2026-05-12",
-      "exitDate": "",
-      "client": "asas",
-      "phone": "",
-      "cat": "Sublimação",
-      "product": "asas",
-      "qty": 1,
-      "unitCost": 0,
-      "extraCost": 0,
-      "margin": 70,
-      "unitPrice": 0,
-      "total": 0,
-      "paid": 0,
-      "date": "",
-      "status": "NOVO",
-      "payment": "Pendente",
-      "nfStatus": "Não emitida",
-      "nfDate": "",
-      "nfKey": "",
-      "nfLink": "",
-      "prio": "Normal",
-      "link": "",
-      "notes": "",
-      "image": "",
-      "items": [],
-      "stockDone": false,
-      "history": [
-        {
-          "from": "CRIADO",
-          "to": "NOVO",
-          "at": "2026-05-12T21:31:57.842Z"
-        }
-      ]
-    },
-    {
-      "id": "hhu95nu8f08mp357cek",
-      "os": "OS-1007",
-      "entryDate": "2026-05-12",
-      "exitDate": "",
-      "client": "aaa",
-      "phone": "",
-      "cat": "Sublimação",
-      "product": "aaaa",
-      "qty": 1,
-      "unitCost": 0,
-      "extraCost": 0,
-      "margin": 70,
-      "unitPrice": 0,
-      "total": 0,
-      "paid": 0,
-      "date": "",
-      "status": "NOVO",
-      "payment": "Pendente",
-      "nfStatus": "Não emitida",
-      "nfDate": "",
-      "nfKey": "",
-      "nfLink": "",
-      "prio": "Normal",
-      "link": "",
-      "notes": "",
-      "image": "",
-      "items": [],
-      "stockDone": false,
-      "history": [
-        {
-          "from": "CRIADO",
-          "to": "NOVO",
-          "at": "2026-05-12T21:28:27.788Z"
-        }
-      ]
-    },
-    {
       "id": "zgfvwheb4zemp1vfjwu",
       "os": "OS-1006",
       "entryDate": "2026-05-12",
@@ -495,5 +421,5 @@
       "notes": ""
     }
   ],
-  "exportedAt": "2026-05-12T22:47:52.448Z"
+  "exportedAt": "2026-05-13T00:33:33.156Z"
 }
