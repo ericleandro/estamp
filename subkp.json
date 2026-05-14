@@ -46,7 +46,7 @@
       "total": 560,
       "paid": 0,
       "date": "2026-05-19",
-      "status": "PRODUÇÃO",
+      "status": "ACABAMENTO",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -86,6 +86,11 @@
           "from": "ARTE/MODELAGEM",
           "to": "PRODUÇÃO",
           "at": "2026-05-12T16:40:25.866Z"
+        },
+        {
+          "from": "PRODUÇÃO",
+          "to": "ACABAMENTO",
+          "at": "2026-05-14T01:57:30.286Z"
         }
       ]
     },
@@ -431,5 +436,5 @@
       "notes": ""
     }
   ],
-  "exportedAt": "2026-05-13T20:12:21.007Z"
+  "exportedAt": "2026-05-14T01:57:39.761Z"
 }
