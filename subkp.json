@@ -425,6 +425,16 @@
   ],
   "dailyEntries": [
     {
+      "id": "dk8c15ty4jbmp7fq1wh",
+      "employeeId": "70bqxvdq2lpmp36bdth",
+      "type": "Adiantamento",
+      "date": "2026-05-15",
+      "qty": 0,
+      "value": 100,
+      "total": 100,
+      "notes": ""
+    },
+    {
       "id": "xlov9d150jmp4hwdrf",
       "employeeId": "70bqxvdq2lpmp36bdth",
       "type": "Diária",
@@ -466,5 +476,5 @@
       "quotes": []
     }
   ],
-  "exportedAt": "2026-05-15T18:03:41.902Z"
+  "exportedAt": "2026-05-15T21:34:09.799Z"
 }
