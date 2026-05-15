@@ -7,8 +7,20 @@
     "subtitle": "Sublimação, canecas, impressão 3D e laser em um painel leve.",
     "whatsappMessage": "Olá, seu pedido foi concluído.",
     "cloudUrl": "https://raw.githubusercontent.com/ericleandro/estamp/main/subkp.json",
-    "theme": "default",
-    "palette": null,
+    "theme": "pastel",
+    "palette": {
+      "--themeBg": "linear-gradient(135deg,hsl(174 80% 97%),hsl(237 80% 94%))",
+      "--themeCard": "hsl(174 80% 99%)",
+      "--themeSoft": "hsl(237 70% 96%)",
+      "--themeInput": "#ffffff",
+      "--themeText": "#172033",
+      "--themeMuted": "#64748b",
+      "--themeLine": "hsl(174 45% 88%)",
+      "--themeButton": "hsl(359 60% 97%)",
+      "--themePrimary": "hsl(359 45% 30%)",
+      "--themePrimary2": "hsl(359 50% 42%)",
+      "--themeCol": "hsla(237,60%,97%,.80)"
+    },
     "menus": {
       "dash": "DASHBOARD",
       "board": "FLUXO DE TRABALHO",
@@ -397,6 +409,13 @@
   ],
   "employees": [
     {
+      "id": "6i6qi0bwbc7mp7878go",
+      "name": "VITÓRIA",
+      "role": "COSTUREIRA",
+      "phone": "8496327223",
+      "rate": 65
+    },
+    {
       "id": "70bqxvdq2lpmp36bdth",
       "name": "ARTUR",
       "role": "SUBLIMADOR",
@@ -436,5 +455,16 @@
       "notes": ""
     }
   ],
-  "exportedAt": "2026-05-14T01:57:39.761Z"
+  "suppliers": [
+    {
+      "id": "57rbj428dxemp71gms2",
+      "name": "JC MALHAS",
+      "contact": "SILVIA",
+      "phone": "8391352389",
+      "cat": "Malhas e tecidos",
+      "notes": "",
+      "quotes": []
+    }
+  ],
+  "exportedAt": "2026-05-15T18:03:41.902Z"
 }
