@@ -522,6 +522,15 @@
   ],
   "suppliers": [
     {
+      "id": "pldc0ys6w9dmp7hqnr5",
+      "name": "XIXIRO - PAPEIS E TINTAS",
+      "contact": "DIEULA",
+      "phone": "8599890034",
+      "cat": "Insumos",
+      "notes": "",
+      "quotes": []
+    },
+    {
       "id": "57rbj428dxemp71gms2",
       "name": "JC MALHAS",
       "contact": "SILVIA",
@@ -532,5 +541,5 @@
     }
   ],
   "supplierPurchases": [],
-  "exportedAt": "2026-05-15T22:23:37.073Z"
+  "exportedAt": "2026-05-15T22:30:42.981Z"
 }
