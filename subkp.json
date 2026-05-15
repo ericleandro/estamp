@@ -425,13 +425,13 @@
   ],
   "dailyEntries": [
     {
-      "id": "dk8c15ty4jbmp7fq1wh",
+      "id": "cwwdc74c5x4mp7fua54",
       "employeeId": "70bqxvdq2lpmp36bdth",
       "type": "Adiantamento",
       "date": "2026-05-15",
-      "qty": 0,
-      "value": 100,
-      "total": 100,
+      "qty": 1,
+      "value": 150,
+      "total": 150,
       "notes": ""
     },
     {
@@ -476,5 +476,5 @@
       "quotes": []
     }
   ],
-  "exportedAt": "2026-05-15T21:34:09.799Z"
+  "exportedAt": "2026-05-15T21:37:22.639Z"
 }
