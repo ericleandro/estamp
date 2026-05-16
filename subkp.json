@@ -58,7 +58,7 @@
       "total": 360,
       "paid": 0,
       "date": "2026-05-16",
-      "status": "PRODUÇÃO",
+      "status": "PEDIDOS ENTREGUES",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -93,6 +93,11 @@
           "from": "NOVO",
           "to": "PRODUÇÃO",
           "at": "2026-05-15T22:23:33.450Z"
+        },
+        {
+          "from": "PRODUÇÃO",
+          "to": "PEDIDOS ENTREGUES",
+          "at": "2026-05-16T13:02:26.492Z"
         }
       ]
     },
@@ -525,7 +530,7 @@
       "id": "h9fzpx4tjiimp7hwm60",
       "name": "XIXIRO",
       "contact": "DIEULA",
-      "city": "FORTALEZA/CE",
+      "city": "FORTALEZA",
       "phone": "8599890034",
       "cat": "Insumos",
       "notes": "",
@@ -535,7 +540,6 @@
       "id": "57rbj428dxemp71gms2",
       "name": "JC MALHAS",
       "contact": "SILVIA",
-      "city": "PAU DOS FERROS/RN",
       "phone": "8391352389",
       "cat": "Malhas e tecidos",
       "notes": "",
@@ -543,5 +547,5 @@
     }
   ],
   "supplierPurchases": [],
-  "exportedAt": "2026-05-16T12:50:34.833Z"
+  "exportedAt": "2026-05-16T13:02:30.831Z"
 }
