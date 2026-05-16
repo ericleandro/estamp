@@ -1,5 +1,6 @@
 {
   "app": "SUBLICONTROL",
+  "mode": "local-first-html",
   "config": {
     "company": "SUBLICONTROL",
     "logo": "SC",
@@ -547,5 +548,7 @@
     }
   ],
   "supplierPurchases": [],
-  "exportedAt": "2026-05-16T13:02:30.831Z"
+  "priceProducts": [],
+  "quickQuotes": [],
+  "exportedAt": "2026-05-16T22:26:56.820Z"
 }
