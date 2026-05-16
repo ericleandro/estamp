@@ -522,9 +522,10 @@
   ],
   "suppliers": [
     {
-      "id": "pldc0ys6w9dmp7hqnr5",
-      "name": "XIXIRO - PAPEIS E TINTAS",
+      "id": "h9fzpx4tjiimp7hwm60",
+      "name": "XIXIRO",
       "contact": "DIEULA",
+      "city": "FORTALEZA/CE",
       "phone": "8599890034",
       "cat": "Insumos",
       "notes": "",
@@ -534,6 +535,7 @@
       "id": "57rbj428dxemp71gms2",
       "name": "JC MALHAS",
       "contact": "SILVIA",
+      "city": "PAU DOS FERROS/RN",
       "phone": "8391352389",
       "cat": "Malhas e tecidos",
       "notes": "",
@@ -541,5 +543,5 @@
     }
   ],
   "supplierPurchases": [],
-  "exportedAt": "2026-05-15T22:30:42.981Z"
+  "exportedAt": "2026-05-16T12:50:34.833Z"
 }
