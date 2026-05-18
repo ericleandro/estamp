@@ -34,7 +34,7 @@
       "id": "5cwe6tfjzzmp9oye5z",
       "os": "OS-1008",
       "entryDate": "2026-05-15",
-      "exitDate": "",
+      "exitDate": "2026-05-18",
       "client": "LEANDRO - INTENSE",
       "phone": "8496822272",
       "cat": "Sublimação",
@@ -76,6 +76,46 @@
           "from": "NOVO",
           "to": "ARTE/MODELAGEM",
           "at": "2026-05-17T11:28:30.067Z"
+        },
+        {
+          "from": "ARTE/MODELAGEM",
+          "to": "PRODUÇÃO",
+          "at": "2026-05-18T10:25:58.193Z"
+        },
+        {
+          "from": "PRODUÇÃO",
+          "to": "ARTE/MODELAGEM",
+          "at": "2026-05-18T14:16:12.243Z"
+        },
+        {
+          "from": "ARTE/MODELAGEM",
+          "to": "PEDIDOS CONCLUIDOS",
+          "at": "2026-05-18T14:42:45.554Z"
+        },
+        {
+          "from": "PEDIDOS CONCLUIDOS",
+          "to": "ARTE/MODELAGEM",
+          "at": "2026-05-18T14:42:49.218Z"
+        },
+        {
+          "from": "ARTE/MODELAGEM",
+          "to": "PEDIDOS CONCLUIDOS",
+          "at": "2026-05-18T14:42:52.768Z"
+        },
+        {
+          "from": "PEDIDOS CONCLUIDOS",
+          "to": "ARTE/MODELAGEM",
+          "at": "2026-05-18T14:44:04.249Z"
+        },
+        {
+          "from": "ARTE/MODELAGEM",
+          "to": "PEDIDOS CONCLUIDOS",
+          "at": "2026-05-18T14:56:58.263Z"
+        },
+        {
+          "from": "PEDIDOS CONCLUIDOS",
+          "to": "ARTE/MODELAGEM",
+          "at": "2026-05-18T14:57:00.807Z"
         }
       ]
     },
@@ -374,6 +414,31 @@
           "from": "NOVO",
           "to": "ARTE/MODELAGEM",
           "at": "2026-05-11T18:42:33.262Z"
+        },
+        {
+          "from": "ARTE/MODELAGEM",
+          "to": "PEDIDOS CONCLUIDOS",
+          "at": "2026-05-18T14:15:41.668Z"
+        },
+        {
+          "from": "PEDIDOS CONCLUIDOS",
+          "to": "ARTE/MODELAGEM",
+          "at": "2026-05-18T14:15:58.954Z"
+        },
+        {
+          "from": "ARTE/MODELAGEM",
+          "to": "PEDIDOS ENTREGUES",
+          "at": "2026-05-18T14:16:07.789Z"
+        },
+        {
+          "from": "PEDIDOS ENTREGUES",
+          "to": "NOVO",
+          "at": "2026-05-18T15:00:52.058Z"
+        },
+        {
+          "from": "NOVO",
+          "to": "ARTE/MODELAGEM",
+          "at": "2026-05-18T15:00:55.204Z"
         }
       ]
     },
@@ -597,5 +662,5 @@
   "supplierPurchases": [],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-05-17T13:26:28.689Z"
+  "exportedAt": "2026-05-18T15:01:12.674Z"
 }
