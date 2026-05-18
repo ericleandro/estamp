@@ -31,6 +31,118 @@
   },
   "orders": [
     {
+      "id": "2asgocnsbvimpbo4lf7",
+      "os": "OS-1010",
+      "entryDate": "2026-05-18",
+      "exitDate": "",
+      "client": "JC MOTO PEÇAS",
+      "phone": "",
+      "cat": "Sublimação",
+      "product": "CAMISAS PRETAS",
+      "qty": 13,
+      "unitCost": 0,
+      "extraCost": 0,
+      "margin": 0,
+      "unitPrice": 0,
+      "total": 0,
+      "paid": 0,
+      "date": "",
+      "status": "NOVO",
+      "payment": "Pendente",
+      "nfStatus": "Não emitida",
+      "nfDate": "",
+      "nfKey": "",
+      "nfLink": "",
+      "prio": "Normal",
+      "link": "",
+      "notes": "Cliente WhatsApp.\n\nHistórico capturado:\n[10:38, 14/05/2026] Eric Leandro:  eu to imprimindo ainda\n\n[19:57, 14/05/2026] Meika meika.pdf@gmail.com:  3 camisa do Mauro abrantes Com esse nome Miquéias\n\n[17:13, 15/05/2026] Meika meika.pdf@gmail.com:  Meika meika.pdf@gmail.com Pintou? Tu não pintou?\n\n[17:14, 15/05/2026] Eric Leandro:  ta pintada\n\n[17:14, 15/05/2026] Eric Leandro:  mae q n fechou ainda\n\n[17:14, 15/05/2026] Eric Leandro:  ela disse q vc falou q n era pra hj\n\n[10:19, 18/05/2026] Meika meika.pdf@gmail.com:  Lista da camisa do Arraiá da Chica 1: Benilza M baby look 2: Rakeline G baby look 3: Henrique G 4 : Geovânia G baby look 5 : Luciana G baby look 6: kessia GG baby look. 7: Lourdinha Camisa G2. 8: Hérculano G 9: Juciana baby look G 10: Edilene - P baby look 11: Flávia - M baby look 12: Elicarla - P Baby look Lista da camisa 13: Larissa GG 14: Maria M 15: Monaliza Baby look. XGG 16 : Sueleide baby look M 17 : leuda baby look M 18: Silvana - baby look G 19: Neide - baby look Gg 20: Mikaelly - baby look G 21: Gorete - baby look G 22: Fofa - baby look M 23: Lu - baby look G 24: Hugo camisa P 25: Elidiane baby look GG 26: Bianca baby look M\n\n[10:19, 18/05/2026] Meika meika.pdf@gmail.com:  Pp com elastano\n\n[10:23, 18/05/2026] Meika meika.pdf@gmail.com:  Mesmo tom que pintou\n\n[10:23, 18/05/2026] Meika meika.pdf@gmail.com:  A amostra\n\nTelefone: não capturado automaticamente pelo WhatsApp Web.",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAAYEBAUEBAYFBQUGBgYHCQ4JCQgICRINDQoOFRIWFhUSFBQXGiEcFxgfGRQUHScdHyIjJSUlFhwpLCgkKyEkJST/2wBDAQYGBgkICREJCREkGBQYJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCT/wAARCACcAIgDASIAAhEBAxEB/8QAHQAAAQQDAQEAAAAAAAAAAAAAAAMEBwgBAgUGCf/EAEIQAAECBAQDBgMDCgQHAAAAAAECAwAEBREGEiExB0FRCBMiYXGBFDKRQqHRFSMkQ1JygqKxwRYzYvAXNDVFk+Hx/8QAGgEBAAMBAQEAAAAAAAAAAAAAAAMEBQIBBv/EADIRAAICAgAFAQUFCQAAAAAAAAABAgMEEQUSITFBcRMiMlFhFCOBodEVJTNCUmJykcH/2gAMAwEAAhEDEQA/ALUwQQQAQQRgm2sAZjUm17xG2OO0DgjBKXmVVBNTn27j4WSIWcw5KV8qf96RC9K7SVXxpxCprU6BSaKtSmUyraibrULIUtWl9dOQF/KIci11VSmlvSOoR5pKJYeocTcO06fdknZh1brSsq+7buAfWBribhtwA/FOIv8AtNGI7qtMYXOKmVNizmqjYHWE0UmWWBYI90/gYycTJysqpXVSjp+OvT6FiyuuuXLLZKCeIeGiP+pAera/wjJ4h4ZH/c0/+Nf4RGP5CbOyWvqfxjBoTYGqW/qfxif94f2/mc/cfUkh3iZhpoXE24v91pX9xDvD2NKRiZ15mQdcLjIBUhxOU2PSImdpMugahHskw8afYwrQqhUVqLAbZU4pY8JFgbaj/esVcvOyMPlla09vWl3JKqYW7UdomsRkbRUvh52sajRiinYvlnapK7JnGU2fbHRQ2UPPQ+sWJwfxQwjjtCRQ61LPvkXMstWR5Pqg6/S8bye0mUz1cEA2gj0BBBBABCUzMsyjDj8w6hlltJUtxarJSBzJO0brUEJUtZCUpFySbARTnj/xvmcaVB7D9Emlt0CXcyKU2SPjVjmSN0X2G3PpAElcRe1jQ6ApyRwnKflqcTdJmFkol0Hytqv7vWK94w41Y8xwVt1KrTDcqu/6LK3abt0ITv7x5RptKRe0KEjygBmgqv4kLHtDhoFC0rQVJUDcEcjG+UHp9Y2CbQYLEcK+J0niaRZo1adS1VGgG0rWRaZSOY/1eUe8fpz8ubsnOj9m+oinqVKSoKSopIO43ESDhnjbifD7SJd9xupS6NEpmfnSPJW9o+dnwzIxbHdgvo+8X2/AuK+FkVG1fiTyXZhOim1j1EZSZp02S0s+0Rux2kJTIPiMPvZ7a5Hxa/0hCf7SBLZEhQAlfV564+gAjt5vEX0VGn69B7Kj+sllqRTLIVMzzqEJR4iVGyUjqYgrjHxRbxFeg0VajTmlAvvD9eocv3QR7n0jy+K+JOJMYAtT86W5W+kswMqPcc/ePLW849xeF2zuWVmvcl2S7IWZEVH2dS0vzGiilPMk9esaJm3Jd1LrDrrbiNUrQSCk9QRsYeFN4Mv+7RvFMkHB3aUx/hPu2XJ1NZlE7szwKlW6Be8WM4b9pHCWPFMyc2pVEqqyE/DzKh3az/oc2PoQDFMsiTyEJLbCSFJ0I2IgD6XDUaQRW7s48cH6i5L4OxHMF10jJITSzqro0rqeh8rQQB7ntJ42XhLh+5KSzhRO1dZlW7bhFrrP0sP4opDOP2WdYnvta11c9jyUpYWe5p0knw9FuHMo+6cn0ivDqytZ1gB6zMXA1hwHAeUcttt3RSRp6w6bU4NxAD0KBjZMN0KN9YXCoA3JjF4LwQAXg5wEQCAMwQXjUmAAmNSq3OMKVpCKlLPyiAFVLtDV+Y03jCw8QdB9YbLadvdVvSAOlSJ96UmW32HVNOtqC0LSbFKgbgjob84IYyq8qxBAHu+MGKm8WcQKxU21XZemC0yeqEWSD72vEeEKacJVqkHXy1h5OkvobUNyCQYauu5xntYn5h6bwAohd5oM38BF02jZwuNnwqIPmbwxC8im1X/y1Wv5R1nQHEBSdQecAJszDp0cKTDpC456VWVDptd4AdBUZzQkFRtmgBTNG7DLsy6lphpbrijYIQm5PpDfP5x6vhrRpGv4mYlZ+a+HZ3K8xTb79+nK51vqDDkXKmuVj8dTuuDnJRRxJ6j1KmKCZ2RmJdRFwHGyDaN2qFPuuJS7LuspP21IJSnpfn9AYsJV6LTpCdRIMFpTjTYKXJpfeLdUdE2AGigbEEeh0jpOLpztQDEu8pru5gNtyyXVIyISB4Q0BzsSb+cYC43ZKrn5Nfoa1fCJNbm9FY69RKhh6bMtUGC0vdJ1soWuDr1BEcR6ZfvZBAHlFhuMuDpKZw/NV+YqIfnQczTl0N+G1wClIFzYBN9TtryiulytVxGlwriCzaOfyuj9TNyKHVLlZshS3FAKKlX84G3bPOn7CBYDzhUjuGi4QLgXjnpUVISnbOSo+QvGmQCzAUp4HkSIIXlbFaeguYIA2CgqWCh+rVrDWZR3a832Fbw4l7BSkm9lg773hMkLbCVekANMpKF9Ux1JN1T8tbKE200jnTCS0kKTsoZTDykrR3RSCb31gBOYBbVqYyy/5xvOgFRtDAEpMAdZLoPONu8HWOe26YV7wwA5LnnHtMA4lpdKR8LMUcVCbdcUtCySktjJbwkKGvqD/ePBBRjIWQRbflHE4KS0z1Nrqib3MXv/AAcwiXpzrDa2Vlju5toKaveyiArW1tLW12hVeO3ZSV7icpTgLdkpcan0BzLlKQVZlrClZtb2AuNoiH/Fc6Ej8xIWBvrKoN997jXcwm5iycylBl6cdvF8G3f02iP7PE69rL5khYrxtJN0VxD+H0Iefy9y/wDEIcOYEKBUATckAA+psBcWiuXRc3jWbnnalMJccbYQQAkBltKBa99hz13hzLoCEiO4Vxh2PJTcu4jUHEpYyEkFWkMCop23Iyj0hzPOpVMIQoaA3MNEfnX7jYaxIcjxCsjRsfErwiCNWbgd4rQJ2ggC02MOBdDqDq3Hqa9R5k/rZYZUH+HY+0RZWez/AFmUC1UyoSs4m5ISv82r8IvY6y28kocQlaTuFC8cSewRRZ4G8r3Kj9po5f8A1HzMeG8QxemNdzL5S/UvO+mz4469D561bh5iymaTNGmSB9poBwfykxy6alLRW2pJS6DZQIsQYvxUeD0jOEhuqTDSDuFICvwileLJCSpeKq3LyQIYannkIudbBZEa+DZlzTWVBJ+NeSvcq1/DeziPNBZyp9z0jSn00VGfbl0fKpWW4+8/1+kavv38Ow6DpD/DtRRJzLrysgUlGVBVc2v5f/Iuzb09EmFCud8Vc9R8+gVTDRlqgJSTcLiUpBccXolBPK/p7wgmnomJtiRki5MTLziWki1gVEgWHPeOtJYmS9Vm3HUAsA+JxzU3PMDYe2sdPDNdo9B4jyNcdVLzErLL+JyOqUlBcA0BISo767RHBy3qRq8QpxPZyuxmvi1rzrxo6WIuBNfwn35q9QpsuO+blpUZllU68oA5GUhJJAzAE2AB0vDmf4AVmQrEpRjXKM9VJqZRLJlG1OZ0qVqSfBayU3JsdhHpk8Zpasu4cmcTzNPq05Rqi9Ug/wB6tAXmvlasG9AlRSR5ItpC8/xcpK627WafOtszYlphpgzNQffSw+6MoeQkosMgJ0HU6xMYCPGHs/4ran5iTdck23EVRFJaupX6Q4pAXmRpqkJ1J8jDPEnA6vUpyjiQn6XWUVWbXIsrkHS4Euo+YKuBYDW52FtY9rPdo4y1Uw7MTVOaqyKVT1s3YmVNlyYWkILyiU/MEJsP3jrC+G+LwNJDFGo+GaUJdpTEgzUJ4uJl21m7pINita+ZuLAR43okrqnP4URHjzAVR4b4j/IlSmJWYmkstzAcllFSClQuNSBeOY04hewtzj1XFjFwx9iz8q/Cy8opEqzL93Lu94jwC1wbDTyjxgSps3NwL7jkYbOZRcXysTVIzdTnFsykut11Cc2RAuoi4Gg3O/8AWPS0DhRiyqLummKl21fbmFBu3sdfuh9wrok1iHiZQJFKVJQ89kcdbFyE2Nz7C5i6lN4U0qTCS9NTUwRyuEg/QRnZ081NRxYpr5vwS1KrvYysNF7OwcyKrFVunmzKp3/iP4QRcSRoFMp3/LSjaD+0Rc/UwRm/sziNnvWZOn9F0J/tFK6RgdKCCCPpCiaufIq29jHzixU2oYkq4QSVqnXtTy8Zj6PkAxQfi5hp7CfEStSDyMqVTCpho23Q4cwI+pEAeAdlQ2jqo84SdSJdsNI/zF7noIfzC0spzkajYRxlvKU4V3uo/dAC5WltPdpho6SVwozc3UYTXqomAF2/lEZJtmgSLJHpGFapVAGEjvGz1EYTfRSfmEYYVlVY843V+aXnGqTuIA3S9mUHE6LTy6x0W1Idbzdd/KOeGAo5kHf7oWlVlt7u1bHeALM9jygU6ZmK1XXcq6hK5JdlJ/VIWCSr1OW1/I9YtANoqx2P3loxLXpcGza5JCyPNLlgf5jFpxABBBBABBBBABFOu1alTfFFKlZcqqcwpNjyzLGvvFxDziq/H3CqcYYjrNUpudVRpJQ1My9/EtvLcKA9NfPWK9+VCjUp9m9HcIOXYrfNZnV5ecITLQYQAPmMdMNpSorVtvHKmHS/MFX2RtFg49TQ+BsDmY0SLpJ6m0YWbwtkt3aPK5gDcCNSPCr0hS1oxlvcdYAbqFkpVCiHArwq5xkJztKTzSYRSNTeAHDLhYcCT8pO8Pe4zTiXBtaGAVmFjHZw/KzNXnmKZLN95MPKCGx1v18vwjmc1CLlLsj1Jt6RYrsf0l01XENWN+6Qw1Kp81KUVH6ZR9Ys+NojXgdhCTwZhp+Ql3Q++XQqadGynMovbyANoklO0RY90boKyPZnU4OEnF+DMEEETnAQQQQARWTjFiVGB+PMtOpUES09T2Ezo5EFS05j6BKYs0YpZ2p6kib4qzLTSisy0mywo2+VViq1/wCOIciiN9bqn2Z1Cbg+ZHl+NWGmsOYhU7TUgU6eu63k+VCuafTmIjVVk+Ea8onShUn/AIjcKJiWUS5UaaMrZO4KBdP1TpEMokwzfvdFJ0I6GM7hGQ5Qlj2P3q3p/wDH/onya9NTXZjViXse8c0SNYUaBcWpw89BGHne/WGkaJG5hcZUAARrlY0KYyERnMIMwgBBd2XM/I7xsptLgzDnCqwlxJB5wz7xTKinlACwl7ne0TJw7wwxg7BM7juqD9IWgokWjv0B9SfuERlg6jPYrxJIUdm4Mw4AtX7CBqpXsAYljjrVkS79OwtJHLKyLSXFtpOl7WSn2GvuIwuJ2SuurwYPv1l/iv1LdCUYu6XjsSv2TcTzdcw9XZWoOl2bZnRMLUTuHQf7pMTyNor12QqKuWoleq6rhubfaYR592lRv/PaLCjaNuMVFJIqt7fUIIII6PAggggDB3ilPaZYk2+LFR+FeC1OMsqfT+w5lAIv6BJ94uvzijXaAl0S/FuvBFzmcS4b9ShMPQC3ADERpWK5ilOmzNRYOUHbvEeIfy5xHieLtIOHccVKUZBTLur+IZHRK9bexuPaMYRmnZTGlDWyrKoTaU+xNj90ev7Rss2KnSJoD86tpaFHqAdP6x84/uOMJx7WR6+q8l5e/jPfhkQMnJC2cnnCCTpG6FGPoyiK3PWC5jEHMQBkqyi+saJYU6c6tBGyQFOWOoEJvurJy3sID6kvcB6MtqZqFcQ1m7lPcIV0JF1W9rfWPC4lxI9W8Rz9QfJUHnlWPIJ2H3CJgwChNK4GzU5KjK+uUnH1KPNdli/0SPpEESQ7xPi1j57hclfm5Fz/AJXyr8C7kLkqhD59S4fZImS9gWot94lSW545QD8oKExOkVK7IE9MS+N6zTm3CJV2ml9TfIrS4gA/RavrFtRH0JSCCCCAP//Z",
+      "items": [
+        {
+          "qty": 2,
+          "desc": "P MASC",
+          "unit": 0,
+          "total": 0
+        },
+        {
+          "qty": 6,
+          "desc": "M MASC",
+          "unit": 0,
+          "total": 0
+        },
+        {
+          "qty": 2,
+          "desc": "G MASC",
+          "unit": 0,
+          "total": 0
+        },
+        {
+          "qty": 3,
+          "desc": "M BABY LOOK",
+          "unit": 0,
+          "total": 0
+        }
+      ],
+      "stockDone": false,
+      "history": [
+        {
+          "from": "WHATSAPP WEB",
+          "to": "NOVO",
+          "at": "2026-05-18T20:40:21.619Z"
+        }
+      ]
+    },
+    {
+      "id": "u6hxcdysvlmpbo2evl",
+      "os": "OS-1009",
+      "entryDate": "2026-05-18",
+      "exitDate": "",
+      "client": "JC MOTO PEÇAS",
+      "phone": "",
+      "cat": "Sublimação",
+      "product": "CAMISAS AMARELAS COPA",
+      "qty": 4,
+      "unitCost": 0,
+      "extraCost": 0,
+      "margin": 0,
+      "unitPrice": 0,
+      "total": 0,
+      "paid": 0,
+      "date": "",
+      "status": "NOVO",
+      "payment": "Pendente",
+      "nfStatus": "Não emitida",
+      "nfDate": "",
+      "nfKey": "",
+      "nfLink": "",
+      "prio": "Normal",
+      "link": "",
+      "notes": "Cliente WhatsApp.\n\nHistórico capturado:\n[10:38, 14/05/2026] Eric Leandro:  eu to imprimindo ainda\n\n[19:57, 14/05/2026] Meika meika.pdf@gmail.com:  3 camisa do Mauro abrantes Com esse nome Miquéias\n\n[17:13, 15/05/2026] Meika meika.pdf@gmail.com:  Meika meika.pdf@gmail.com Pintou? Tu não pintou?\n\n[17:14, 15/05/2026] Eric Leandro:  ta pintada\n\n[17:14, 15/05/2026] Eric Leandro:  mae q n fechou ainda\n\n[17:14, 15/05/2026] Eric Leandro:  ela disse q vc falou q n era pra hj\n\n[10:19, 18/05/2026] Meika meika.pdf@gmail.com:  Lista da camisa do Arraiá da Chica 1: Benilza M baby look 2: Rakeline G baby look 3: Henrique G 4 : Geovânia G baby look 5 : Luciana G baby look 6: kessia GG baby look. 7: Lourdinha Camisa G2. 8: Hérculano G 9: Juciana baby look G 10: Edilene - P baby look 11: Flávia - M baby look 12: Elicarla - P Baby look Lista da camisa 13: Larissa GG 14: Maria M 15: Monaliza Baby look. XGG 16 : Sueleide baby look M 17 : leuda baby look M 18: Silvana - baby look G 19: Neide - baby look Gg 20: Mikaelly - baby look G 21: Gorete - baby look G 22: Fofa - baby look M 23: Lu - baby look G 24: Hugo camisa P 25: Elidiane baby look GG 26: Bianca baby look M\n\n[10:19, 18/05/2026] Meika meika.pdf@gmail.com:  Pp com elastano\n\n[10:23, 18/05/2026] Meika meika.pdf@gmail.com:  Mesmo tom que pintou\n\n[10:23, 18/05/2026] Meika meika.pdf@gmail.com:  A amostra\n\nTelefone: não capturado automaticamente pelo WhatsApp Web.",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAAYEBAUEBAYFBQUGBgYHCQ4JCQgICRINDQoOFRIWFhUSFBQXGiEcFxgfGRQUHScdHyIjJSUlFhwpLCgkKyEkJST/2wBDAQYGBgkICREJCREkGBQYJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCT/wAARCACNAIYDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAABQABAwQCBgcI/8QAPhAAAgEDAwIEBAQDBgQHAAAAAQIDAAQRBRIhBjETIkFRBxRhkTJCcYEjUqEIJGLB0fAVFpLhNENTsbLS8f/EABsBAAEFAQEAAAAAAAAAAAAAAAQAAQIDBQYH/8QAMBEAAQQBAwIFAgQHAAAAAAAAAQACAxEEEiExBRMGIkFRYTJxFDOBkSMkYrHh8PH/2gAMAwEAAhEDEQA/APVNKkaWaSSRpjWLyKgyzBR7mhWodR21muEBlY/y9vvQWX1HGxRczwP7qyOJ8hpoRYsB7CtB+KXxa074e6YUQfMarcowtIfybv5nPsMj61eudbvLxd+RHGM+RfX9TXMPjP0fN1T00t1aL/ftPJkRAOZE/Mv64GR+lcw3xjBLlshjHkPLii3YLmsLid1qsPxE+Ok6if53TWR/Mojii24PPGRmp1+K3xvtuDaWtxj1+WQ//E0B+FvXJtkXQtVfYyeW3lc4BGfwE+4rrMbwSYLpG2R3Kiuz9LQFLRz8afjSgwdBsiff5U//AGpj8ZfjXIMDRbND7i1/1at92WX/AKMf/SKjcWi9oY/+kUqSXP5viX8cbkYV7SAnt/AiGPvW/fB34z32qXDdMdbSxDXkdhFPCo2TADJU44DAA1qHXvW1v03p7xW5je/lGIogM7f8RHsKDfAbpS5udUm6rv8Ae4QtHAzDJd2/E/2JH1JNZ3Vc5uFjOmPI4+SrYYzI8NXrBJFcAqQQexFZg1pNnqU1m5EUmAfyN2o3ZdRrIoFxHsPbK9qwuneMMPIAbN5HfPH7q+XCezjdGx3pVFDcxTrmORWH0NS5rq45WSN1MNj4QhBHKVKlmlViZI0N1HVltAUQB5P6CpdTvfk7YtkbjwK1GW6LuWZsknJzXF+KPEDsP+Wxz5zyfb/KNxccPOp3CfUb67nn3GRmH8vpVa4JlRcK2fWpixYqVPbvTM8iLvIzgcivMHvdK7XIST8rZYQ0ANFKO1BMIBzjJyMd6klZTEdykgelRRXBVc8474qXxWmTKKBz3JptNG0nWTa5R8RPg3Hql3LqfT22K6fLyWh4Rz7qfQ/0rR7Xqnqro2X5DVrSV1T/AMu6Uq4H0b1H3r0cFcy+KFBGMYz3qG6s7e9TbcW8cyd9kihhn9DXX9L8WT4rRFKNbR+6BmwmPNhcOT4uR7fPpkofHYSDH/tQ6/8AiVrWqf3bS7IQSScAqDI/7DGP6V2u46L6ckDMNEst4PJEQonZaXpulqvyllb25IxiKNVJ+wrZk8cR6fJEb+SqB093JK4p0n8HtU126XU+qHkt7Zm3NHI2Zpfof5c/7xXb7O2t9NtYrS0ijgghUIkajAXFPPIVAXaFH8tNG4kYB87if2rj+qdVyOou1THYcAcLRgxmxjZPIfEYEkftUsN0HbbyMCkqoU3FSDzgU0MW1W/h7GJ9s1jFjSN1dqvYqzDK64dXKn6cYozYa2ykR3JyOweteRQ7hxKDj6YqQy7WzRuB1LI6e8Pgft6j0P6IaaFjxRW8qwYAqQQfWlQDR9WWNTHK/lA8pPpSr1vB6/jZEDZXGieQsZ+O5rqVPqW8LXRiB4jH9a1lrgh+TRDWLgy3czAZyx+1B47lGmMeOfXNeT9UndkZUkh3srXhaGsARFLzG3vycViZmZgDJu5IxVQahpMjFWaQMhwdoOAasLPp/ixGGYZLc5NAgEchExkK7CqSAkp27VmAoLALgDsaha4RMorhiW4xWYZwSCM8ehFIWkbWSszggKQp7Gowm1FJBz2p90qFQQdoAHbtWYmjdMo24Z71JMdkwEa8YOT/AFrLw13AjOT9aaZh+NSCQO1KJf4YZmOcZ70yVeqxeMSMFLYPoe9OLZIyG8TGDxVaS9jjZVijkk3K2HBGwMMeUkngnNRW2o/MnbNGYxsWRnDq0aN22bvfNXdmXTqANKHfbdWiJdhMqZ4IJNNG5DvuJxnjNYN5pg3AGMGsPmLUFxLKo2nHehirFHBOm5tp7Dnj61hLc7mqjDqGnrM+PEk47KPrTm/t7m3E9uCELY5qToyfRRk5RK3m8vJpVUs3aRSQM0qm1xAoFQT30xWUE9jQq7YQ3KSrxnv+lFLlRKpFCLvJt2zy0Xf9Kdp3USFDphVNVvrZxlWCzL+4/wBaLCK2X8UIyPWgVhMV12CVZ0j3xNHhxwxGDR6dW35coR7p2q+YWd/ZWwhNd3dvp9nJdMjJFbqXc49BQ691ltNdXZ2W6kjaWK3aRgzBVyR6qeSMjAA9zWHVDal/wiVNJt/mp5PKEkGVZSDkN9PT9655P03r+uwxpq+lQ3ccAbwY5MyLGNpIVDvB/EFXn9aP6ZiRyt1SOFWo5Dj9ICNS9d9QahGbnTk04BbSO9maa7kjVN7MqoPy/l5JxwfStq0q5u9KkudQ1IeGkSiMxRYKbCygPkgFz9TjAJ75FaDqXRF9qD2V1/y5p9z4MMUL71IdcE52jdtKquOMnJzRHUU6vnkymmXM+2PeIJdqo0ofjy78kADPPf2GK1Z8aF7AyKh78Idpo7rqs5zGXyO3GPWskkxABg9sULthdSWsfzO4zY5BGCBnjI98f51ajd8eVGz2PPeuVe3SSEcBbVz+O21K/wCrjb3EwSwsL1TIYUASMMxw20kZJxyST9MVGvTer6LrBTRZjeaZPcLH47RAwy+ZSxKAnIG7uCDkVn1D1HqvT3VEhuEmn015EkFuxCpKoHABIPGSQRj0pr7ULvX+uYrG0iMVlaXCTrCMFIPwMxyAMAhO3ufrXucQxj0kOpmrtn7f9tcc7X+Lo6vq/wB/RdJkAWJjwCBnsBz+1DlVHbmFfMeTV3KrHzj1HND/AAZJ3ZlbHPvXgrdyV2LAAN1TvEawgmmUKm1SR6VWt1MGn20C8tjn9ak6mtX8CIKG80qI5b0GQf8AKsYG8SYEZ9AP0o2/4YNqmQ2UYswYYhk8mlTA+UClQ4e0bFRpZ5INU7yJSd4HcYb61Q0Prrpnqq3Mmj6xa3Em3c0G8CVf1Q4OPrVyabxFyD+oqb4ZYnaZGkH5TageCtadJTqFrbJtaZJwFDfmUg5/fGf6Vs6WKxY9CT23GtV161e4vbUQMUmMiqrA4xk1tMTx2Eo8SQzStjjOcUXIbDaPKshNWpnD42uDtxjAPcVr110x81dM6JZBdu0eLGXZQD77v99qOvdF3UEedzwF9KjmkSINgnf64PY0JHI+Jx0p+eUEXpGaBD4Mumq7jaf7ux4A4/P9B9qIWOhC31Bbq6azlMfMfhxFCrZ4I5Ix34xVuGSaRMRtj3JNOsrhj4rZParnZMrgQaUQwIizswBGB7YPalCSucsRg5796wOFi3c4+9Yb8q5EjDbQQ9lK72QvUJNYu2uLWbSbW5sjuULIy+dceXAzxVWO41xQuzSoQuVEjI6jd6MRlv070SF9KZDlfL249Kle4CANnI98Uccp7WdvTt+qH7Ba7VqNqUtI6jaig45GRx9qaBZIfMGCntyM1HbbLxt0TNuQDIFWDIgXZJv2n6dqFaKBRRcgWvmZ9QtUluC3hI0pQHgZwAce/f71NppDtuHZAPvQ3XJ4o9akSN958FVJ/c0W0eD+ABnnuaIl/LaqD9SLQR7ly1KqGqdQ6XoqJ8/qFnZqxwrXE6xhv0LEUqqbhzvGprCR9il3GjkrmPWH9jjU7BzedE9QLOEJYWt9mKRePyyLwSfqFx7mtMvdE+OHQK7ZrHWJ44jtBVBdIT9CM17h2gdqfFe7TY0UoqRoP3WE1xHC8KdO/EXrjqHqrTdAu9NRbuScbt1u6SKq+ZjjI7KCe3pXouOKO1RG4aXjjGea6jrEKDTLxgi7zC/OBn8JrmNx8ro9qZZVDTn8CDuTXnfizGhx5Y2wtqwdgtTCkJadRSu5E02EXVyy+MeUQChEPjXbFgnLnNMsFxqM/j3u7cfwpngCj8VulhF4zbQzDgVyTzoFVujavnhVJNlrCka43Y82PesYB4jcnIzg1ApEkrPu7nsat2yBCx3ABiCQTyKpf5W16pwASrJWNE2Bjj2zWLCNFPOd3fmlJGZJAVK7R9akYqISeDiqeE/HCHToIyxRkCn03VJZOLlWgfbk9jmkQJZdhBwccVWurd7W5LLuAUjByavb5vIUpG1TlBdtcaRc+MFbax5A9qNCeDU4FmgIIyAwHcGmt2g1e0YPxImQAfWhVtDc6XeiSBvIfxKe1Wgax/UE3HmC5n8Zerda6Y1G1n0fTY5lmLROWjZ/NgFcY9/N9q1LTZ/jd1l/AsNL1eGM4XMdr4CgH/EwH3r1/wBHWCmKW+eEKZ8YB+lbMVBr1Dw/06E4cb5Yxq+Vi5MrtZDSvImjf2Qer+o2e96s6mttOmcZAw15MT/jO5QP2Zv2pV68xSrp2jSKCGtKlSpU6ZU9ZDHSrvYMt4L4H1wa5ObGZpVuLgbiOBu5rsUiB0KsMgjBHvXPb5Le2NxGdsSK7AH964LxnGWuimHyFo4Dhu0odDbq+JpvKq8k4oZd3JvbgBc7F7VPqF+8qC0hIYEHBHrVKbdp8SCTb4hXk1wNG/lageDsr8USKCgUFgPuakjjYRp5BuJ82AKDWl40k4BZgpPJz2oxHdqm1JSrA9mQ5+9VTMcDRTWBwnh/8TKR2HpSuv4qbfwkc1CjNGZ5FzknygAmp45kf8W/J7ZWouFbp9W9qmHNtOHIySQKKmJb2NywHHYUJmjW4xIjuQOQRWFtffKu2JJsnnGP+1TczWLHKbUOCsGSfS5XlH4cnjNF1B1O0intwu7gMvvUUhN9Ad8RO5Tg7TxxVHQ53s3ZXcIVPCsDVzbcL9Qm1Vsuq9MsW0iANjKgrx+tFKC9IzrcaOkiDCljijVe0dJcXYcZdzQWBN9ZpKlSpVoqtKlSpUkkzHAJrj+v6kdVurqO1QrEJGAJ7d67A43KR71xy8tfkILm1yfFjkIOO583+lcb4v8Ay4/uicZ2kkqnBbBr21Z8MAxBqr1BqqrfmJIoyseBkjvVvU7uG1iTaxEiIGG3vk1rNxG15KZnlbPqPVa4ZkYc7U7hFd01sjMV5GJoikWxWXcxQ4x/vFG5L1I1jHiHYRzuPbihWlwxiNpNoZUGQT64FRXGuWxwXUZbjCihjF3HUPRS71DdFfnnYKECec+U5zmlBKwmbcVyAMY9O9a/pd4seASWYscAtgDir8VxMJmfaoVgoxu7Yp34+nYJCe1fuofDhSNZgnGAR3odLK80BkUgOXPI+lW2tG1MifxV4xgDPpVSbTJoUAEhK7vtk81GNoGxS7pV+w1nYpRmyvr5u1PcQNDd7zmUPFuXHPvWp3EcyXEkUAZ0ZQc5x6Z9aJ6Tr8tpfxfM8QiPZnvjv7UU2AN8zVHvrtfSdultoFmiDAMe4/qe9F6p6O0baZavCQY2iVgffIzVyvYcJunHY34CznGySlSpUqKUUqVKlSSSPauFdd3txBrF5JFkEuygA8nnvXdJDtQkegrg19GNS1C5uZuXMz5+9cp4peGsjv3Sseq04PqE9xBHMXUMS2M0dTSy0ezc53OoyP1//aeKFZ9WEZwBApZeO/YU2u6tJZKUgRU3Zyf9/pXGSW8hrRSh3w0WUSW9FlC+nsQX25DD1U8UEurBpZQ0LBVxyKDprd07tI7bsnHNFomupVDC4C7h22Z/zqTIDF5vdOJw4UsNNvY0kkifhicKfc0RW+NyJFOV2PtyDQ1dJ84k8Ybs9wnr96fwnt7uMCUkM/mHbPBqT2MJTtlcArser/IytGFuGVf5G/7UXvLplW3EMrbpjjDnPGPoKGdvMPrVS4uZDqFkueMsf6UI6JrnAgKTpCAijXAtL1nZoTLt2FSTt7Y4qC71a6Mpt0iVZDjBB4xz71IkUU9yjyRKWzye2ah1RgmswBVABKr9zVmO1rjuN6UHvLRZXbOhZpZ+l7J5lKttIwfYE4o/Q/QIUg0axjjXaogTj9hRCvWMNumBgPsFJKlSpUSkv//Z",
+      "items": [
+        {
+          "qty": 2,
+          "desc": "CAMISAS M MASC",
+          "unit": 0,
+          "total": 0
+        },
+        {
+          "qty": 2,
+          "desc": "BABY LOOK",
+          "unit": 0,
+          "total": 0
+        }
+      ],
+      "stockDone": false,
+      "history": [
+        {
+          "from": "WHATSAPP WEB",
+          "to": "NOVO",
+          "at": "2026-05-18T20:38:39.825Z"
+        }
+      ]
+    },
+    {
       "id": "5cwe6tfjzzmp9oye5z",
       "os": "OS-1008",
       "entryDate": "2026-05-15",
@@ -116,6 +228,16 @@
           "from": "PEDIDOS CONCLUIDOS",
           "to": "ARTE/MODELAGEM",
           "at": "2026-05-18T14:57:00.807Z"
+        },
+        {
+          "from": "ARTE/MODELAGEM",
+          "to": "PEDIDOS CONCLUIDOS",
+          "at": "2026-05-18T15:38:49.762Z"
+        },
+        {
+          "from": "PEDIDOS CONCLUIDOS",
+          "to": "ARTE/MODELAGEM",
+          "at": "2026-05-18T15:38:54.442Z"
         }
       ]
     },
@@ -251,6 +373,16 @@
           "from": "PRODUÇÃO",
           "to": "ACABAMENTO",
           "at": "2026-05-14T01:57:30.286Z"
+        },
+        {
+          "from": "ACABAMENTO",
+          "to": "PEDIDOS CONCLUIDOS",
+          "at": "2026-05-18T15:55:38.733Z"
+        },
+        {
+          "from": "PEDIDOS CONCLUIDOS",
+          "to": "ACABAMENTO",
+          "at": "2026-05-18T15:55:40.556Z"
         }
       ]
     },
@@ -556,8 +688,19 @@
           "from": "CRIADO",
           "to": "PEDIDOS ENTREGUES",
           "at": "2026-05-07T22:53:04.240Z"
+        },
+        {
+          "from": "PEDIDOS ENTREGUES",
+          "to": "PEDIDOS CONCLUIDOS",
+          "at": "2026-05-18T15:01:47.926Z"
+        },
+        {
+          "from": "PEDIDOS CONCLUIDOS",
+          "to": "PEDIDOS ENTREGUES",
+          "at": "2026-05-18T15:01:49.996Z"
         }
-      ]
+      ],
+      "exitDate": "2026-05-18"
     }
   ],
   "stock": [
@@ -662,5 +805,5 @@
   "supplierPurchases": [],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-05-18T15:01:12.674Z"
+  "exportedAt": "2026-05-18T20:43:08.389Z"
 }
