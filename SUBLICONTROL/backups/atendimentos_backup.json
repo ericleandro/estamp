@@ -1,8 +1,8 @@
 {
   "app": "SUBLICONTROL WhatsApp",
   "type": "attendance-backup",
-  "version": "v49",
-  "exportedAt": "2026-05-19T00:36:11.409Z",
+  "version": "v65-clean",
+  "exportedAt": "2026-05-19T10:04:35.898Z",
   "data": {
     "sc_wait_items": [
       {
@@ -35,7 +35,11 @@
     "sc_attendance_items": [],
     "sc_client_tags_list": [],
     "sc_client_tags": {},
-    "sc_tags_widget_left_v54": "1560",
-    "sc_tags_widget_top_v54": "312"
+    "sc_github_backup_settings_clean": {
+      "owner": "ericleandro",
+      "repo": "estamp",
+      "branch": "main",
+      "path": "SUBLICONTROL/backups/atendimentos_backup.json"
+    }
   }
 }
