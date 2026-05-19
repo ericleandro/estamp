@@ -852,6 +852,26 @@
   ],
   "dailyEntries": [
     {
+      "id": "9zucrrvpjn7mpcw1g7y",
+      "employeeId": "6i6qi0bwbc7mp7878go",
+      "type": "Diária",
+      "date": "2026-05-19",
+      "qty": 1,
+      "value": 65,
+      "total": 65,
+      "notes": ""
+    },
+    {
+      "id": "a0lv5scyavvmpcw10t8",
+      "employeeId": "70bqxvdq2lpmp36bdth",
+      "type": "Diária",
+      "date": "2026-05-19",
+      "qty": 1,
+      "value": 70,
+      "total": 70,
+      "notes": ""
+    },
+    {
       "id": "04wo4nex2s3dmpcgldk4",
       "employeeId": "70bqxvdq2lpmp36bdth",
       "type": "Diária",
@@ -926,5 +946,5 @@
   "supplierPurchases": [],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-05-19T17:08:46.882Z"
+  "exportedAt": "2026-05-19T17:09:50.259Z"
 }
