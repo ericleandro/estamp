@@ -1,0 +1,20 @@
+{
+  "app": "SUBLICONTROL WhatsApp",
+  "type": "attendance-backup",
+  "version": "v67-clean-placeholder",
+  "exportedAt": "2026-05-19T10:14:36.540Z",
+  "data": {
+    "sc_wait_items": [],
+    "sc_wait_categories": [],
+    "sc_custom_tags": [],
+    "sc_attendance_items": [],
+    "sc_client_tags_list": [],
+    "sc_client_tags": {},
+    "sc_github_backup_settings_clean_v67": {
+      "owner": "ericleandro",
+      "repo": "estamp",
+      "branch": "main",
+      "path": "SUBLICONTROL/backups/subliatdmt.json"
+    }
+  }
+}
