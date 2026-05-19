@@ -1,0 +1,41 @@
+{
+  "app": "SUBLICONTROL WhatsApp",
+  "type": "attendance-backup",
+  "version": "v49",
+  "exportedAt": "2026-05-19T00:36:11.409Z",
+  "data": {
+    "sc_wait_items": [
+      {
+        "category": "AGUARDANDO ARTE",
+        "id": "wait_1779149652597_hz4ovtx44dv",
+        "key": "phone::558496281331",
+        "name": "+55 84 9628-1331",
+        "note": "AGUARDANDO ARTE PARA APROVAÇÃO",
+        "phone": "558496281331",
+        "updatedAt": "2026-05-19T00:14:12.597Z"
+      },
+      {
+        "category": "AGUARDANDO ORÇAMENTO",
+        "id": "wait_1779149698275_73jt1vo6sh",
+        "key": "phone::558496231675",
+        "name": "+55 84 9623-1675",
+        "note": "",
+        "phone": "558496231675",
+        "updatedAt": "2026-05-19T00:14:58.275Z"
+      }
+    ],
+    "sc_wait_categories": [
+      "AGUARDANDO ARTE",
+      "AGUARDANDO ORÇAMENTO"
+    ],
+    "sc_custom_tags": [
+      "AGUARDANDO ARTE",
+      "AGUARDANDO ORÇAMENTO"
+    ],
+    "sc_attendance_items": [],
+    "sc_client_tags_list": [],
+    "sc_client_tags": {},
+    "sc_tags_widget_left_v54": "1560",
+    "sc_tags_widget_top_v54": "312"
+  }
+}
