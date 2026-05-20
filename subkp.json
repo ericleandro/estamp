@@ -314,7 +314,7 @@
       "total": 314.86,
       "paid": 0,
       "date": "2026-05-19",
-      "status": "PRODUÇÃO",
+      "status": "ACABAMENTO",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -398,6 +398,11 @@
           "from": "ARTE/MODELAGEM",
           "to": "PRODUÇÃO",
           "at": "2026-05-19T17:08:37.412Z"
+        },
+        {
+          "from": "PRODUÇÃO",
+          "to": "ACABAMENTO",
+          "at": "2026-05-20T10:59:40.835Z"
         }
       ]
     },
@@ -628,7 +633,7 @@
       "total": 3400,
       "paid": 0,
       "date": "2026-05-30",
-      "status": "ARTE/MODELAGEM",
+      "status": "PRODUÇÃO",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -731,6 +736,11 @@
           "from": "NOVO",
           "to": "ARTE/MODELAGEM",
           "at": "2026-05-18T15:00:55.204Z"
+        },
+        {
+          "from": "ARTE/MODELAGEM",
+          "to": "PRODUÇÃO",
+          "at": "2026-05-20T11:00:07.965Z"
         }
       ]
     },
@@ -995,5 +1005,5 @@
   "supplierPurchases": [],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-05-19T23:07:54.148Z"
+  "exportedAt": "2026-05-20T11:00:25.200Z"
 }
