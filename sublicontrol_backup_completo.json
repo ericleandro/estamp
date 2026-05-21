@@ -1,0 +1,102 @@
+{
+  "app": "SUBLICONTROL WhatsApp Bridge",
+  "version": "v92",
+  "createdAt": "2026-05-21T11:49:59.266Z",
+  "data": {
+    "sc_v71_pins": [
+      {
+        "createdAt": "2026-05-21T11:49:12.220Z",
+        "id": "pin_1779364152220_2d5n9uxf6gd",
+        "marker": "Aguardando",
+        "name": "JUNIOR JOCAS - STUDIO MOVA",
+        "phone": "558496894560",
+        "request": "AGUARDANDO LAYOUT",
+        "updatedAt": "2026-05-21T11:49:12.220Z"
+      },
+      {
+        "createdAt": "2026-05-21T11:48:22.508Z",
+        "id": "pin_1779364102508_162m5egt939",
+        "marker": "Aguardando",
+        "name": "EUDES - RAFAEL FERNANDES",
+        "phone": "558499143331",
+        "request": "COM PROVADOR",
+        "updatedAt": "2026-05-21T11:48:22.508Z"
+      },
+      {
+        "createdAt": "2026-05-21T11:47:55.807Z",
+        "id": "pin_1779364075807_wyyl5zp6zal",
+        "marker": "Aguardando",
+        "name": "LIZ - RAFAEL FERNANDES",
+        "phone": "558496231675",
+        "request": "COM PROVADOR",
+        "updatedAt": "2026-05-21T11:48:03.186Z"
+      },
+      {
+        "createdAt": "2026-05-21T11:46:39.958Z",
+        "id": "pin_1779363999957_n9zbs89uo2",
+        "marker": "Aguardando",
+        "name": "GEDSON - OESTE",
+        "phone": "558496281331",
+        "request": "AGUARDANDO LAYOUT",
+        "updatedAt": "2026-05-21T11:46:48.141Z"
+      }
+    ],
+    "sc_v74_markers": [
+      {
+        "color": "#f97316",
+        "emoji": "🔴",
+        "name": "Urgente"
+      },
+      {
+        "color": "#d8a226",
+        "emoji": "🟡",
+        "name": "Aguardando"
+      },
+      {
+        "color": "#31c76a",
+        "emoji": "🟢",
+        "name": "Cliente ativo"
+      },
+      {
+        "color": "#4b7edb",
+        "emoji": "🔵",
+        "name": "Orçamento"
+      },
+      {
+        "color": "#7e57c2",
+        "emoji": "🟣",
+        "name": "Produção"
+      },
+      {
+        "color": "#ef6f45",
+        "emoji": "🟠",
+        "name": "Cobrança"
+      },
+      {
+        "color": "#51465a",
+        "emoji": "⚫",
+        "name": "Problema"
+      },
+      {
+        "color": "#e3b238",
+        "emoji": "⭐",
+        "name": "VIP"
+      }
+    ],
+    "sc_v78_github_settings": {
+      "branch": "main",
+      "owner": "ericleandro",
+      "path": "sublicontrol_backup_completo.json",
+      "repo": "estamp",
+      "token": ""
+    },
+    "sc_v78_quick_html": {
+      "icon": "",
+      "iconData": "",
+      "iconName": "",
+      "label": "Arquivo HTML",
+      "url": ""
+    },
+    "sublicontrol_url": ""
+  }
+}
