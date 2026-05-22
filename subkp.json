@@ -1000,10 +1000,21 @@
   ],
   "dailyEntries": [
     {
-      "id": "bx4rw1m4w2qmph04kjs",
+      "id": "f61tfnciu85mpha86hz",
       "employeeId": "6i6qi0bwbc7mp7878go",
       "type": "Diária",
       "date": "2026-05-22",
+      "qty": 1,
+      "period": "",
+      "value": 65,
+      "total": 65,
+      "notes": ""
+    },
+    {
+      "id": "jekjfh8x5nmph97eb3",
+      "employeeId": "6i6qi0bwbc7mp7878go",
+      "type": "Diária",
+      "date": "2026-05-20",
       "qty": 1,
       "period": "",
       "value": 65,
@@ -1026,16 +1037,6 @@
       "employeeId": "6i6qi0bwbc7mp7878go",
       "type": "Diária",
       "date": "2026-05-21",
-      "qty": 1,
-      "value": 65,
-      "total": 65,
-      "notes": ""
-    },
-    {
-      "id": "a326x0t65zjmpedcj8r",
-      "employeeId": "6i6qi0bwbc7mp7878go",
-      "type": "Diária",
-      "date": "2026-05-20",
       "qty": 1,
       "value": 65,
       "total": 65,
@@ -1193,5 +1194,5 @@
   ],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-05-22T14:16:01.080Z"
+  "exportedAt": "2026-05-22T19:00:05.467Z"
 }
