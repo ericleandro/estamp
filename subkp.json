@@ -47,7 +47,7 @@
       "total": 0,
       "paid": 0,
       "date": "",
-      "status": "NOVO",
+      "status": "ARTE/MODELAGEM",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -66,6 +66,11 @@
           "from": "WHATSAPP WEB",
           "to": "NOVO",
           "at": "2026-05-22T01:07:37.210Z"
+        },
+        {
+          "from": "NOVO",
+          "to": "ARTE/MODELAGEM",
+          "at": "2026-05-22T11:18:26.368Z"
         }
       ]
     },
@@ -241,7 +246,7 @@
       "total": 0,
       "paid": 0,
       "date": "",
-      "status": "ARTE/MODELAGEM",
+      "status": "ACABAMENTO",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -288,6 +293,16 @@
           "from": "NOVO",
           "to": "ARTE/MODELAGEM",
           "at": "2026-05-19T10:40:22.546Z"
+        },
+        {
+          "from": "ARTE/MODELAGEM",
+          "to": "PRODUÇÃO",
+          "at": "2026-05-22T11:18:34.089Z"
+        },
+        {
+          "from": "PRODUÇÃO",
+          "to": "ACABAMENTO",
+          "at": "2026-05-22T11:18:37.901Z"
         }
       ]
     },
@@ -343,6 +358,16 @@
           "from": "NOVO",
           "to": "ARTE/MODELAGEM",
           "at": "2026-05-19T10:40:25.420Z"
+        },
+        {
+          "from": "ARTE/MODELAGEM",
+          "to": "PRODUÇÃO",
+          "at": "2026-05-22T11:18:41.484Z"
+        },
+        {
+          "from": "PRODUÇÃO",
+          "to": "ARTE/MODELAGEM",
+          "at": "2026-05-22T11:18:43.702Z"
         }
       ]
     },
@@ -969,7 +994,7 @@
       "id": "70bqxvdq2lpmp36bdth",
       "name": "ARTUR",
       "role": "SUBLIMADOR",
-      "phone": "8499665522",
+      "phone": "84996208070",
       "rate": 70
     }
   ],
@@ -979,9 +1004,10 @@
       "employeeId": "70bqxvdq2lpmp36bdth",
       "type": "Diária",
       "date": "2026-05-21",
-      "qty": 0.5,
+      "qty": 1,
+      "period": "",
       "value": 70,
-      "total": 35,
+      "total": 70,
       "notes": ""
     },
     {
@@ -1010,6 +1036,7 @@
       "type": "Diária",
       "date": "2026-05-20",
       "qty": 0.5,
+      "period": "Manhã",
       "value": 70,
       "total": 35,
       "notes": ""
@@ -1060,6 +1087,7 @@
       "type": "Diária",
       "date": "2026-05-13",
       "qty": 0.5,
+      "period": "Tarde",
       "value": 70,
       "total": 35,
       "notes": ""
@@ -1070,6 +1098,7 @@
       "type": "Diária",
       "date": "2026-05-12",
       "qty": 0.5,
+      "period": "Manhã",
       "value": 70,
       "total": 35,
       "notes": ""
@@ -1100,14 +1129,58 @@
       "id": "57rbj428dxemp71gms2",
       "name": "JC MALHAS",
       "contact": "SILVIA",
+      "city": "PAU DOS FERROS/RN",
       "phone": "8391352389",
+      "cashDiscount": 5,
+      "cashDiscountType": "percent",
+      "cashPaymentDays": 30,
       "cat": "Malhas e tecidos",
       "notes": "",
       "quotes": []
     }
   ],
-  "supplierPurchases": [],
+  "supplierPurchases": [
+    {
+      "id": "vluf5s1kswompguchhq",
+      "supplierId": "57rbj428dxemp71gms2",
+      "date": "2026-05-20",
+      "product": "MALHA",
+      "qty": 1,
+      "total": 2565.58,
+      "paid": 0,
+      "balance": 2565.58,
+      "invoiceImage": "",
+      "createdAt": "2026-05-22T11:33:18.350Z",
+      "updatedAt": "2026-05-22T11:33:18.350Z"
+    },
+    {
+      "id": "xe8f5ovoarempguc1vn",
+      "supplierId": "57rbj428dxemp71gms2",
+      "date": "2026-05-20",
+      "product": "MALHA",
+      "qty": 1,
+      "total": 48.34,
+      "paid": 0,
+      "balance": 48.34,
+      "invoiceImage": "",
+      "createdAt": "2026-05-22T11:32:58.115Z",
+      "updatedAt": "2026-05-22T11:32:58.115Z"
+    },
+    {
+      "id": "uuffnby35itmpgub21b",
+      "supplierId": "57rbj428dxemp71gms2",
+      "date": "2026-05-18",
+      "product": "MALHA",
+      "qty": 1,
+      "total": 1944.4,
+      "paid": 0,
+      "balance": 1944.4,
+      "invoiceImage": "",
+      "createdAt": "2026-05-22T11:32:11.663Z",
+      "updatedAt": "2026-05-22T11:32:11.663Z"
+    }
+  ],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-05-22T01:13:26.411Z"
+  "exportedAt": "2026-05-22T13:41:05.076Z"
 }
