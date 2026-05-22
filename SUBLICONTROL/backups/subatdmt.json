@@ -1,0 +1,71 @@
+{
+  "app": "SUBLICONTROL WhatsApp Bridge",
+  "version": "v96",
+  "createdAt": "2026-05-22T01:25:12.411Z",
+  "data": {
+    "sc_v74_markers": [
+      {
+        "color": "#f97316",
+        "emoji": "🔴",
+        "name": "Urgente"
+      },
+      {
+        "color": "#d8a226",
+        "emoji": "🟡",
+        "name": "Aguardando"
+      },
+      {
+        "color": "#31c76a",
+        "emoji": "🟢",
+        "name": "Cliente ativo"
+      },
+      {
+        "color": "#4b7edb",
+        "emoji": "🔵",
+        "name": "Orçamento"
+      },
+      {
+        "color": "#7e57c2",
+        "emoji": "🟣",
+        "name": "Produção"
+      },
+      {
+        "color": "#ef6f45",
+        "emoji": "🟠",
+        "name": "Cobrança"
+      },
+      {
+        "color": "#51465a",
+        "emoji": "⚫",
+        "name": "Problema"
+      },
+      {
+        "color": "#e3b238",
+        "emoji": "⭐",
+        "name": "VIP"
+      }
+    ],
+    "sc_v78_github_settings": {
+      "branch": "main",
+      "owner": "ericleandro",
+      "path": "SUBLICONTROL/backups/subatdmt.json",
+      "repo": "estamp",
+      "token": ""
+    },
+    "sc_v78_quick_html": {
+      "icon": "",
+      "iconData": "",
+      "iconName": "",
+      "label": "Arquivo HTML",
+      "url": ""
+    },
+    "sc_v96_quick_html_2": {
+      "icon": "",
+      "iconData": "",
+      "iconName": "",
+      "label": "Arquivo HTML 2",
+      "url": ""
+    },
+    "sublicontrol_url": ""
+  }
+}
