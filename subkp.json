@@ -967,26 +967,7 @@
       "exitDate": "2026-05-18"
     }
   ],
-  "stock": [
-    {
-      "id": "bw6lcoy3lutmovlbm2v",
-      "name": "Caneca branca 325ml",
-      "cat": "Canecas",
-      "qty": 40,
-      "min": 10,
-      "cost": 8.5,
-      "price": 30
-    },
-    {
-      "id": "6qx2xsrgdohmovlbm2v",
-      "name": "Camiseta sublimada",
-      "cat": "Sublimação",
-      "qty": 25,
-      "min": 6,
-      "cost": 22,
-      "price": 55
-    }
-  ],
+  "stock": [],
   "employees": [
     {
       "id": "6i6qi0bwbc7mp7878go",
@@ -1199,5 +1180,5 @@
   ],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-05-22T21:02:30.245Z"
+  "exportedAt": "2026-05-22T23:42:47.778Z"
 }
