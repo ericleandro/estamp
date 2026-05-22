@@ -994,11 +994,22 @@
       "id": "70bqxvdq2lpmp36bdth",
       "name": "ARTUR",
       "role": "SUBLIMADOR",
-      "phone": "84996208070",
+      "phone": "8499311588",
       "rate": 70
     }
   ],
   "dailyEntries": [
+    {
+      "id": "bx4rw1m4w2qmph04kjs",
+      "employeeId": "6i6qi0bwbc7mp7878go",
+      "type": "Diária",
+      "date": "2026-05-22",
+      "qty": 1,
+      "period": "",
+      "value": 65,
+      "total": 65,
+      "notes": ""
+    },
     {
       "id": "pue1vbh3irmpfskhs4",
       "employeeId": "70bqxvdq2lpmp36bdth",
@@ -1182,5 +1193,5 @@
   ],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-05-22T13:41:05.076Z"
+  "exportedAt": "2026-05-22T14:16:01.080Z"
 }
