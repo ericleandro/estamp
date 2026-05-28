@@ -44,10 +44,10 @@
       "unitCost": 0,
       "extraCost": 0,
       "margin": 0,
-      "unitPrice": 29.97,
-      "total": 179.82,
+      "unitPrice": 30,
+      "total": 180,
       "paid": 0,
-      "date": "",
+      "date": "2026-06-03",
       "status": "NOVO",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
@@ -237,7 +237,7 @@
       "total": 0,
       "paid": 0,
       "date": "",
-      "status": "PEDIDOS CONCLUIDOS",
+      "status": "PEDIDOS ENTREGUES",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -274,6 +274,11 @@
           "from": "ACABAMENTO",
           "to": "PEDIDOS CONCLUIDOS",
           "at": "2026-05-28T10:21:04.742Z"
+        },
+        {
+          "from": "PEDIDOS CONCLUIDOS",
+          "to": "PEDIDOS ENTREGUES",
+          "at": "2026-05-28T23:11:59.622Z"
         }
       ]
     },
@@ -294,7 +299,7 @@
       "total": 0,
       "paid": 0,
       "date": "",
-      "status": "PEDIDOS CONCLUIDOS",
+      "status": "PEDIDOS ENTREGUES",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -331,6 +336,11 @@
           "from": "ACABAMENTO",
           "to": "PEDIDOS CONCLUIDOS",
           "at": "2026-05-28T10:21:03.589Z"
+        },
+        {
+          "from": "PEDIDOS CONCLUIDOS",
+          "to": "PEDIDOS ENTREGUES",
+          "at": "2026-05-28T23:12:01.237Z"
         }
       ]
     },
@@ -518,7 +528,7 @@
       "total": 780,
       "paid": 0,
       "date": "",
-      "status": "PEDIDOS CONCLUIDOS",
+      "status": "PEDIDOS ENTREGUES",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -562,6 +572,11 @@
           "from": "ACABAMENTO",
           "to": "PEDIDOS CONCLUIDOS",
           "at": "2026-05-28T10:20:54.772Z"
+        },
+        {
+          "from": "PEDIDOS CONCLUIDOS",
+          "to": "PEDIDOS ENTREGUES",
+          "at": "2026-05-28T23:11:56.596Z"
         }
       ]
     },
@@ -634,7 +649,7 @@
       "total": 0,
       "paid": 0,
       "date": "",
-      "status": "PEDIDOS CONCLUIDOS",
+      "status": "PEDIDOS ENTREGUES",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -696,6 +711,11 @@
           "from": "ACABAMENTO",
           "to": "PEDIDOS CONCLUIDOS",
           "at": "2026-05-28T10:20:58.718Z"
+        },
+        {
+          "from": "PEDIDOS CONCLUIDOS",
+          "to": "PEDIDOS ENTREGUES",
+          "at": "2026-05-28T23:11:57.433Z"
         }
       ]
     },
@@ -716,7 +736,7 @@
       "total": 0,
       "paid": 0,
       "date": "",
-      "status": "PEDIDOS CONCLUIDOS",
+      "status": "PEDIDOS ENTREGUES",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -776,6 +796,11 @@
           "from": "ACABAMENTO",
           "to": "PEDIDOS CONCLUIDOS",
           "at": "2026-05-28T10:21:01.350Z"
+        },
+        {
+          "from": "PEDIDOS CONCLUIDOS",
+          "to": "PEDIDOS ENTREGUES",
+          "at": "2026-05-28T23:11:58.961Z"
         }
       ]
     },
@@ -796,7 +821,7 @@
       "total": 314.86,
       "paid": 0,
       "date": "2026-05-19",
-      "status": "PEDIDOS CONCLUIDOS",
+      "status": "PEDIDOS ENTREGUES",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -895,6 +920,11 @@
           "from": "PEDIDOS ENTREGUES",
           "to": "PEDIDOS CONCLUIDOS",
           "at": "2026-05-28T10:39:53.544Z"
+        },
+        {
+          "from": "PEDIDOS CONCLUIDOS",
+          "to": "PEDIDOS ENTREGUES",
+          "at": "2026-05-28T23:11:48.288Z"
         }
       ]
     },
@@ -1684,5 +1714,5 @@
   ],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-05-28T23:09:55.455Z"
+  "exportedAt": "2026-05-28T23:12:43.025Z"
 }
