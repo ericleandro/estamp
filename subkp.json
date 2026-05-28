@@ -8,7 +8,7 @@
     "subtitle": "Sublimação, canecas, impressão 3D e laser em um painel leve.",
     "whatsappMessage": "Olá, seu pedido foi concluído.",
     "cloudUrl": "https://raw.githubusercontent.com/ericleandro/estamp/main/subkp.json",
-    "theme": "dark",
+    "theme": "default",
     "palette": null,
     "menus": {
       "dash": "DASHBOARD",
@@ -174,7 +174,7 @@
       "id": "1izdq83h9hzmpjzsjy4",
       "os": "OS-1017",
       "entryDate": "2026-05-24",
-      "exitDate": "",
+      "exitDate": "2026-05-28",
       "client": "MEIKA",
       "phone": "",
       "cat": "Sublimação",
@@ -187,7 +187,7 @@
       "total": 0,
       "paid": 0,
       "date": "",
-      "status": "ACABAMENTO",
+      "status": "PEDIDOS CONCLUIDOS",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -219,6 +219,11 @@
           "from": "PRODUÇÃO",
           "to": "ACABAMENTO",
           "at": "2026-05-25T20:33:19.175Z"
+        },
+        {
+          "from": "ACABAMENTO",
+          "to": "PEDIDOS CONCLUIDOS",
+          "at": "2026-05-28T10:21:04.742Z"
         }
       ]
     },
@@ -226,7 +231,7 @@
       "id": "mguyqi6sgumpjxj2am",
       "os": "OS-1016",
       "entryDate": "2026-05-24",
-      "exitDate": "",
+      "exitDate": "2026-05-28",
       "client": "MEIKA",
       "phone": "",
       "cat": "Sublimação",
@@ -239,7 +244,7 @@
       "total": 0,
       "paid": 0,
       "date": "",
-      "status": "ACABAMENTO",
+      "status": "PEDIDOS CONCLUIDOS",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -271,6 +276,11 @@
           "from": "PRODUÇÃO",
           "to": "ACABAMENTO",
           "at": "2026-05-25T20:33:15.237Z"
+        },
+        {
+          "from": "ACABAMENTO",
+          "to": "PEDIDOS CONCLUIDOS",
+          "at": "2026-05-28T10:21:03.589Z"
         }
       ]
     },
@@ -430,7 +440,7 @@
       "id": "6a7yb1hiltgmpci30fr",
       "os": "OS-1012",
       "entryDate": "2026-05-19",
-      "exitDate": "",
+      "exitDate": "2026-05-28",
       "client": "MEIKA",
       "phone": "",
       "cat": "Sublimação",
@@ -443,7 +453,7 @@
       "total": 780,
       "paid": 0,
       "date": "",
-      "status": "ACABAMENTO",
+      "status": "PEDIDOS CONCLUIDOS",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -482,6 +492,11 @@
           "from": "PRODUÇÃO",
           "to": "ACABAMENTO",
           "at": "2026-05-22T01:07:59.978Z"
+        },
+        {
+          "from": "ACABAMENTO",
+          "to": "PEDIDOS CONCLUIDOS",
+          "at": "2026-05-28T10:20:54.772Z"
         }
       ]
     },
@@ -541,7 +556,7 @@
       "id": "2asgocnsbvimpbo4lf7",
       "os": "OS-1010",
       "entryDate": "2026-05-18",
-      "exitDate": "",
+      "exitDate": "2026-05-28",
       "client": "JC MOTO PEÇAS",
       "phone": "",
       "cat": "Sublimação",
@@ -554,7 +569,7 @@
       "total": 0,
       "paid": 0,
       "date": "",
-      "status": "ACABAMENTO",
+      "status": "PEDIDOS CONCLUIDOS",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -611,6 +626,11 @@
           "from": "PRODUÇÃO",
           "to": "ACABAMENTO",
           "at": "2026-05-22T11:18:37.901Z"
+        },
+        {
+          "from": "ACABAMENTO",
+          "to": "PEDIDOS CONCLUIDOS",
+          "at": "2026-05-28T10:20:58.718Z"
         }
       ]
     },
@@ -618,7 +638,7 @@
       "id": "u6hxcdysvlmpbo2evl",
       "os": "OS-1009",
       "entryDate": "2026-05-18",
-      "exitDate": "",
+      "exitDate": "2026-05-28",
       "client": "JC MOTO PEÇAS",
       "phone": "",
       "cat": "Sublimação",
@@ -631,7 +651,7 @@
       "total": 0,
       "paid": 0,
       "date": "",
-      "status": "ACABAMENTO",
+      "status": "PEDIDOS CONCLUIDOS",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -686,6 +706,11 @@
           "from": "PRODUÇÃO",
           "to": "ACABAMENTO",
           "at": "2026-05-25T20:33:03.769Z"
+        },
+        {
+          "from": "ACABAMENTO",
+          "to": "PEDIDOS CONCLUIDOS",
+          "at": "2026-05-28T10:21:01.350Z"
         }
       ]
     },
@@ -706,7 +731,7 @@
       "total": 314.86,
       "paid": 0,
       "date": "2026-05-19",
-      "status": "ACABAMENTO",
+      "status": "PEDIDOS CONCLUIDOS",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -795,6 +820,16 @@
           "from": "PRODUÇÃO",
           "to": "ACABAMENTO",
           "at": "2026-05-20T10:59:40.835Z"
+        },
+        {
+          "from": "ACABAMENTO",
+          "to": "PEDIDOS ENTREGUES",
+          "at": "2026-05-28T10:20:53.091Z"
+        },
+        {
+          "from": "PEDIDOS ENTREGUES",
+          "to": "PEDIDOS CONCLUIDOS",
+          "at": "2026-05-28T10:39:53.544Z"
         }
       ]
     },
@@ -1562,5 +1597,5 @@
   ],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-05-28T02:10:04.495Z"
+  "exportedAt": "2026-05-28T14:57:38.024Z"
 }
