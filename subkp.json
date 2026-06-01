@@ -1566,6 +1566,17 @@
   ],
   "dailyEntries": [
     {
+      "id": "dv8jbc54m3mpvoinby",
+      "employeeId": "6i6qi0bwbc7mp7878go",
+      "type": "Diária",
+      "date": "2026-06-01",
+      "qty": 1,
+      "period": "",
+      "value": 65,
+      "total": 65,
+      "notes": ""
+    },
+    {
       "id": "5rhrrn03a7qmpvci673",
       "employeeId": "70bqxvdq2lpmp36bdth",
       "type": "Diária",
@@ -1884,5 +1895,5 @@
   ],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-06-01T15:20:18.954Z"
+  "exportedAt": "2026-06-01T20:47:09.461Z"
 }
