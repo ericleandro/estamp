@@ -1566,6 +1566,17 @@
   ],
   "dailyEntries": [
     {
+      "id": "5rhrrn03a7qmpvci673",
+      "employeeId": "70bqxvdq2lpmp36bdth",
+      "type": "Diária",
+      "date": "2026-06-01",
+      "qty": 0.5,
+      "period": "Manhã",
+      "value": 70,
+      "total": 35,
+      "notes": ""
+    },
+    {
       "id": "o9us1un1w6imptox9uq",
       "employeeId": "70bqxvdq2lpmp36bdth",
       "type": "Adiantamento",
@@ -1873,5 +1884,5 @@
   ],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-05-31T12:16:07.758Z"
+  "exportedAt": "2026-06-01T15:20:18.954Z"
 }
