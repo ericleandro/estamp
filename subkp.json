@@ -8,7 +8,7 @@
     "subtitle": "Sublimação, canecas, impressão 3D e laser em um painel leve.",
     "whatsappMessage": "Olá, seu pedido foi concluído.",
     "cloudUrl": "https://raw.githubusercontent.com/ericleandro/estamp/main/subkp.json",
-    "theme": "default",
+    "theme": "dark",
     "palette": null,
     "menus": {
       "dash": "DASHBOARD",
@@ -1895,5 +1895,5 @@
   ],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-06-01T20:47:09.461Z"
+  "exportedAt": "2026-06-02T12:46:55.299Z"
 }
