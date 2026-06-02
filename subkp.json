@@ -1601,6 +1601,17 @@
   ],
   "dailyEntries": [
     {
+      "id": "wczhapr0lpsmpx11l3s",
+      "employeeId": "6i6qi0bwbc7mp7878go",
+      "type": "Diária",
+      "date": "2026-06-02",
+      "qty": 1,
+      "period": "",
+      "value": 15,
+      "total": 15,
+      "notes": "- R$50 LUZ LED"
+    },
+    {
       "id": "dv8jbc54m3mpvoinby",
       "employeeId": "6i6qi0bwbc7mp7878go",
       "type": "Diária",
@@ -1930,5 +1941,5 @@
   ],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-06-02T14:59:18.856Z"
+  "exportedAt": "2026-06-02T19:26:04.067Z"
 }
