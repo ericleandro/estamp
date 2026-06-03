@@ -54,7 +54,7 @@
       "total": 0,
       "paid": 0,
       "date": "",
-      "status": "ARTE/MODELAGEM",
+      "status": "ACABAMENTO",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -76,6 +76,16 @@
           "from": "NOVO",
           "to": "ARTE/MODELAGEM",
           "at": "2026-06-03T13:23:41.141Z"
+        },
+        {
+          "from": "ARTE/MODELAGEM",
+          "to": "PRODUÇÃO",
+          "at": "2026-06-03T20:28:28.587Z"
+        },
+        {
+          "from": "PRODUÇÃO",
+          "to": "ACABAMENTO",
+          "at": "2026-06-03T20:28:31.827Z"
         }
       ]
     },
@@ -1663,6 +1673,17 @@
   ],
   "dailyEntries": [
     {
+      "id": "jw5zh85v0j9mpyirkaj",
+      "employeeId": "6i6qi0bwbc7mp7878go",
+      "type": "Diária",
+      "date": "2026-06-03",
+      "qty": 1,
+      "period": "",
+      "value": 65,
+      "total": 65,
+      "notes": ""
+    },
+    {
       "id": "sh8bksnng6lmpy3llo1",
       "employeeId": "70bqxvdq2lpmp36bdth",
       "type": "Adiantamento",
@@ -2014,5 +2035,5 @@
   ],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-06-03T13:24:37.282Z"
+  "exportedAt": "2026-06-03T20:49:49.177Z"
 }
