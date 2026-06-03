@@ -93,7 +93,7 @@
       "id": "fcso1iogkjdmptp78gq",
       "os": "OS-1024",
       "entryDate": "2026-05-31",
-      "exitDate": "",
+      "exitDate": "2026-06-03",
       "client": "NANA",
       "phone": "8499045681",
       "cat": "Sublimação",
@@ -106,7 +106,7 @@
       "total": 0,
       "paid": 0,
       "date": "2026-06-04",
-      "status": "ACABAMENTO",
+      "status": "PEDIDOS ENTREGUES",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -133,6 +133,16 @@
           "from": "PRODUÇÃO",
           "to": "ACABAMENTO",
           "at": "2026-06-03T13:23:48.405Z"
+        },
+        {
+          "from": "ACABAMENTO",
+          "to": "PEDIDOS CONCLUIDOS",
+          "at": "2026-06-03T21:18:51.439Z"
+        },
+        {
+          "from": "PEDIDOS CONCLUIDOS",
+          "to": "PEDIDOS ENTREGUES",
+          "at": "2026-06-03T21:19:01.250Z"
         }
       ]
     },
@@ -224,7 +234,7 @@
       "id": "pw3tjrgsxvsmpq3r15s",
       "os": "OS-1021",
       "entryDate": "2026-05-28",
-      "exitDate": "",
+      "exitDate": "2026-06-03",
       "client": "MARILIA",
       "phone": "8496033405",
       "cat": "Sublimação",
@@ -237,7 +247,7 @@
       "total": 179.82,
       "paid": 0,
       "date": "2026-06-05",
-      "status": "ACABAMENTO",
+      "status": "PEDIDOS ENTREGUES",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -271,6 +281,16 @@
           "from": "PRODUÇÃO",
           "to": "ACABAMENTO",
           "at": "2026-06-02T14:58:58.777Z"
+        },
+        {
+          "from": "ACABAMENTO",
+          "to": "PEDIDOS CONCLUIDOS",
+          "at": "2026-06-03T21:18:46.833Z"
+        },
+        {
+          "from": "PEDIDOS CONCLUIDOS",
+          "to": "PEDIDOS ENTREGUES",
+          "at": "2026-06-03T21:18:59.966Z"
         }
       ]
     },
@@ -2040,5 +2060,5 @@
   ],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-06-03T21:18:42.912Z"
+  "exportedAt": "2026-06-03T21:21:31.183Z"
 }
