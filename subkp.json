@@ -1703,6 +1703,17 @@
   ],
   "dailyEntries": [
     {
+      "id": "gbswfg4pdqcmpzsloyd",
+      "employeeId": "70bqxvdq2lpmp36bdth",
+      "type": "Diária",
+      "date": "2026-06-03",
+      "qty": 1,
+      "period": "",
+      "value": 26.25,
+      "total": 26.25,
+      "notes": "3 HORAS PELA MANHÃ"
+    },
+    {
       "id": "f9atifqzke8mpzqhyol",
       "employeeId": "70bqxvdq2lpmp36bdth",
       "type": "Diária",
@@ -2076,5 +2087,5 @@
   ],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-06-04T16:53:42.223Z"
+  "exportedAt": "2026-06-04T17:52:29.245Z"
 }
