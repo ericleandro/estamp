@@ -1703,6 +1703,17 @@
   ],
   "dailyEntries": [
     {
+      "id": "f9atifqzke8mpzqhyol",
+      "employeeId": "70bqxvdq2lpmp36bdth",
+      "type": "Diária",
+      "date": "2026-06-02",
+      "qty": 1,
+      "period": "",
+      "value": 70,
+      "total": 70,
+      "notes": ""
+    },
+    {
       "id": "jw5zh85v0j9mpyirkaj",
       "employeeId": "6i6qi0bwbc7mp7878go",
       "type": "Diária",
@@ -1717,7 +1728,7 @@
       "id": "sh8bksnng6lmpy3llo1",
       "employeeId": "70bqxvdq2lpmp36bdth",
       "type": "Adiantamento",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "qty": 1,
       "period": "",
       "value": 50,
@@ -2065,5 +2076,5 @@
   ],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-06-04T13:05:36.392Z"
+  "exportedAt": "2026-06-04T16:53:42.223Z"
 }
