@@ -659,7 +659,7 @@
       "total": 0,
       "paid": 0,
       "date": "",
-      "status": "PEDIDOS CONCLUIDOS",
+      "status": "PEDIDOS ENTREGUES",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -708,6 +708,11 @@
           "from": "ACABAMENTO",
           "to": "PEDIDOS CONCLUIDOS",
           "at": "2026-06-03T13:24:03.274Z"
+        },
+        {
+          "from": "PEDIDOS CONCLUIDOS",
+          "to": "PEDIDOS ENTREGUES",
+          "at": "2026-06-04T13:05:16.268Z"
         }
       ]
     },
@@ -2060,5 +2065,5 @@
   ],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-06-03T21:21:31.183Z"
+  "exportedAt": "2026-06-04T13:05:36.392Z"
 }
