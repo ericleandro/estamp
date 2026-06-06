@@ -41,7 +41,7 @@
       "id": "lczu41i1yocmpx192op",
       "os": "OS-1025",
       "entryDate": "2026-06-02",
-      "exitDate": "",
+      "exitDate": "2026-06-06",
       "client": "LEIDINHA REGO",
       "phone": "8498001901",
       "cat": "Sublimação",
@@ -54,7 +54,7 @@
       "total": 0,
       "paid": 0,
       "date": "",
-      "status": "ACABAMENTO",
+      "status": "PEDIDOS ENTREGUES",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -86,6 +86,11 @@
           "from": "PRODUÇÃO",
           "to": "ACABAMENTO",
           "at": "2026-06-03T20:28:31.827Z"
+        },
+        {
+          "from": "ACABAMENTO",
+          "to": "PEDIDOS ENTREGUES",
+          "at": "2026-06-06T14:46:59.129Z"
         }
       ]
     },
@@ -210,7 +215,7 @@
       "total": 0,
       "paid": 0,
       "date": "2026-06-08",
-      "status": "NOVO",
+      "status": "ARTE/MODELAGEM",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -227,6 +232,11 @@
           "from": "WHATSAPP WEB",
           "to": "NOVO",
           "at": "2026-05-30T18:19:10.533Z"
+        },
+        {
+          "from": "NOVO",
+          "to": "ARTE/MODELAGEM",
+          "at": "2026-06-06T14:47:03.145Z"
         }
       ]
     },
@@ -1439,7 +1449,7 @@
       "total": 3400,
       "paid": 0,
       "date": "2026-05-30",
-      "status": "ACABAMENTO",
+      "status": "PEDIDOS ENTREGUES",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -1552,6 +1562,11 @@
           "from": "PRODUÇÃO",
           "to": "ACABAMENTO",
           "at": "2026-05-22T01:08:04.426Z"
+        },
+        {
+          "from": "ACABAMENTO",
+          "to": "PEDIDOS ENTREGUES",
+          "at": "2026-06-06T14:46:56.858Z"
         }
       ]
     },
@@ -2109,5 +2124,5 @@
   ],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-06-06T14:35:23.399Z"
+  "exportedAt": "2026-06-06T14:47:36.977Z"
 }
