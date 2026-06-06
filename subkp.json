@@ -1703,6 +1703,28 @@
   ],
   "dailyEntries": [
     {
+      "id": "vvfdch5jq6mq2gf5pc",
+      "employeeId": "6i6qi0bwbc7mp7878go",
+      "type": "Diária",
+      "date": "2026-06-04",
+      "qty": 1.5,
+      "period": "",
+      "value": 65,
+      "total": 97.5,
+      "notes": "Restante após pagamento."
+    },
+    {
+      "id": "xru1ef2up0emq2gd94z",
+      "employeeId": "6i6qi0bwbc7mp7878go",
+      "type": "Pagamento",
+      "date": "2026-06-06",
+      "qty": 1,
+      "period": "",
+      "value": 700,
+      "total": 700,
+      "notes": "Baixa/pagamento de diárias em aberto"
+    },
+    {
       "id": "gbswfg4pdqcmpzsloyd",
       "employeeId": "70bqxvdq2lpmp36bdth",
       "type": "Diária",
@@ -2087,5 +2109,5 @@
   ],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-06-04T17:52:29.245Z"
+  "exportedAt": "2026-06-06T14:35:23.399Z"
 }
