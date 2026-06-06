@@ -1737,7 +1737,34 @@
       "period": "",
       "value": 700,
       "total": 700,
-      "notes": "Baixa/pagamento de diárias em aberto"
+      "notes": "Pagamento aplicado ao período 19/05/2026 a 03/06/2026",
+      "settlementId": "pdqcf0sm99omq2ic3nl",
+      "settlement": {
+        "id": "pdqcf0sm99omq2ic3nl",
+        "start": "2026-05-19",
+        "end": "2026-06-03",
+        "closedAt": "2026-06-06T15:28:00.897Z",
+        "earnedIds": [
+          "9zucrrvpjn7mpcw1g7y",
+          "jekjfh8x5nmph97eb3",
+          "h1mdzoziz8mpfsk5tx",
+          "f61tfnciu85mpha86hz",
+          "qnogzqqj0hmplnr7m3",
+          "g7zw0sccbfmpn1g3vl",
+          "7s5nlcjqr67mpogj8ls",
+          "db7wa6rnk9emppy830s",
+          "im2bqx7014omprix66h",
+          "dv8jbc54m3mpvoinby",
+          "wczhapr0lpsmpx11l3s",
+          "jw5zh85v0j9mpyirkaj"
+        ],
+        "deductionIds": [
+          "xru1ef2up0emq2gd94z"
+        ],
+        "earnedTotal": 697.5,
+        "paidTotal": 700,
+        "partial": true
+      }
     },
     {
       "id": "gbswfg4pdqcmpzsloyd",
@@ -1770,7 +1797,8 @@
       "period": "",
       "value": 65,
       "total": 65,
-      "notes": ""
+      "notes": "",
+      "settlementId": "pdqcf0sm99omq2ic3nl"
     },
     {
       "id": "sh8bksnng6lmpy3llo1",
@@ -1792,7 +1820,8 @@
       "period": "",
       "value": 15,
       "total": 15,
-      "notes": "- R$50 LUZ LED"
+      "notes": "- R$50 LUZ LED",
+      "settlementId": "pdqcf0sm99omq2ic3nl"
     },
     {
       "id": "dv8jbc54m3mpvoinby",
@@ -1803,7 +1832,8 @@
       "period": "",
       "value": 65,
       "total": 65,
-      "notes": ""
+      "notes": "",
+      "settlementId": "pdqcf0sm99omq2ic3nl"
     },
     {
       "id": "5rhrrn03a7qmpvci673",
@@ -1836,7 +1866,8 @@
       "period": "",
       "value": 65,
       "total": 65,
-      "notes": ""
+      "notes": "",
+      "settlementId": "pdqcf0sm99omq2ic3nl"
     },
     {
       "id": "jwo1s9eu34cmppy8ojy",
@@ -1858,7 +1889,8 @@
       "period": "",
       "value": 65,
       "total": 65,
-      "notes": ""
+      "notes": "",
+      "settlementId": "pdqcf0sm99omq2ic3nl"
     },
     {
       "id": "7s5nlcjqr67mpogj8ls",
@@ -1869,7 +1901,8 @@
       "period": "",
       "value": 65,
       "total": 65,
-      "notes": ""
+      "notes": "",
+      "settlementId": "pdqcf0sm99omq2ic3nl"
     },
     {
       "id": "aaiv1o0pdzempogiil9",
@@ -1891,7 +1924,8 @@
       "period": "",
       "value": 65,
       "total": 65,
-      "notes": ""
+      "notes": "",
+      "settlementId": "pdqcf0sm99omq2ic3nl"
     },
     {
       "id": "ytse0qiwee9mplnwkxi",
@@ -1913,7 +1947,8 @@
       "period": "Tarde",
       "value": 65,
       "total": 32.5,
-      "notes": ""
+      "notes": "",
+      "settlementId": "pdqcf0sm99omq2ic3nl"
     },
     {
       "id": "tn1ge84g3tpmpirmtft",
@@ -1935,7 +1970,8 @@
       "period": "",
       "value": 65,
       "total": 65,
-      "notes": ""
+      "notes": "",
+      "settlementId": "pdqcf0sm99omq2ic3nl"
     },
     {
       "id": "jekjfh8x5nmph97eb3",
@@ -1946,7 +1982,8 @@
       "period": "",
       "value": 65,
       "total": 65,
-      "notes": ""
+      "notes": "",
+      "settlementId": "pdqcf0sm99omq2ic3nl"
     },
     {
       "id": "pue1vbh3irmpfskhs4",
@@ -1967,7 +2004,8 @@
       "qty": 1,
       "value": 65,
       "total": 65,
-      "notes": ""
+      "notes": "",
+      "settlementId": "pdqcf0sm99omq2ic3nl"
     },
     {
       "id": "0xafka8mbecmpe3bji6",
@@ -1988,7 +2026,8 @@
       "qty": 1,
       "value": 65,
       "total": 65,
-      "notes": ""
+      "notes": "",
+      "settlementId": "pdqcf0sm99omq2ic3nl"
     },
     {
       "id": "a0lv5scyavvmpcw10t8",
@@ -2124,5 +2163,5 @@
   ],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-06-06T15:03:07.998Z"
+  "exportedAt": "2026-06-06T15:37:17.936Z"
 }
