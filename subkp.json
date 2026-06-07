@@ -8,7 +8,7 @@
     "subtitle": "Sublimação, canecas, impressão 3D e laser em um painel leve.",
     "whatsappMessage": "Olá, seu pedido foi concluído.",
     "cloudUrl": "https://raw.githubusercontent.com/ericleandro/estamp/main/subkp.json",
-    "theme": "dark",
+    "theme": "default",
     "palette": null,
     "menus": {
       "dash": "DASHBOARD",
@@ -155,7 +155,7 @@
       "id": "2pk3itzxpnampsodr9f",
       "os": "OS-1023",
       "entryDate": "2026-05-30",
-      "exitDate": "",
+      "exitDate": "2026-06-06",
       "client": "MEIKA",
       "phone": "",
       "cat": "Sublimação",
@@ -195,6 +195,26 @@
           "from": "PRODUÇÃO",
           "to": "ACABAMENTO",
           "at": "2026-06-03T13:23:46.750Z"
+        },
+        {
+          "from": "ACABAMENTO",
+          "to": "PEDIDOS CONCLUIDOS",
+          "at": "2026-06-06T16:16:07.918Z"
+        },
+        {
+          "from": "PEDIDOS CONCLUIDOS",
+          "to": "ACABAMENTO",
+          "at": "2026-06-06T16:16:14.000Z"
+        },
+        {
+          "from": "ACABAMENTO",
+          "to": "PEDIDOS CONCLUIDOS",
+          "at": "2026-06-06T16:18:19.931Z"
+        },
+        {
+          "from": "PEDIDOS CONCLUIDOS",
+          "to": "ACABAMENTO",
+          "at": "2026-06-06T16:18:33.346Z"
         }
       ]
     },
@@ -215,7 +235,7 @@
       "total": 0,
       "paid": 0,
       "date": "2026-06-08",
-      "status": "ARTE/MODELAGEM",
+      "status": "AGUARDANDO APROVAÇÃO",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -237,6 +257,11 @@
           "from": "NOVO",
           "to": "ARTE/MODELAGEM",
           "at": "2026-06-06T14:47:03.145Z"
+        },
+        {
+          "from": "ARTE/MODELAGEM",
+          "to": "AGUARDANDO APROVAÇÃO",
+          "at": "2026-06-07T16:08:24.767Z"
         }
       ]
     },
@@ -454,7 +479,7 @@
       "total": 0,
       "paid": 0,
       "date": "",
-      "status": "ARTE/MODELAGEM",
+      "status": "AGUARDANDO APROVAÇÃO",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -476,6 +501,11 @@
           "from": "NOVO",
           "to": "ARTE/MODELAGEM",
           "at": "2026-05-26T17:09:04.010Z"
+        },
+        {
+          "from": "ARTE/MODELAGEM",
+          "to": "AGUARDANDO APROVAÇÃO",
+          "at": "2026-06-07T16:08:21.683Z"
         }
       ]
     },
@@ -620,7 +650,7 @@
       "total": 1575,
       "paid": 0,
       "date": "",
-      "status": "ARTE/MODELAGEM",
+      "status": "AGUARDANDO APROVAÇÃO",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -649,6 +679,11 @@
           "from": "NOVO",
           "to": "ARTE/MODELAGEM",
           "at": "2026-05-23T19:22:54.324Z"
+        },
+        {
+          "from": "ARTE/MODELAGEM",
+          "to": "AGUARDANDO APROVAÇÃO",
+          "at": "2026-06-07T16:08:20.315Z"
         }
       ]
     },
@@ -2163,5 +2198,5 @@
   ],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-06-06T15:37:17.936Z"
+  "exportedAt": "2026-06-07T18:14:31.254Z"
 }
