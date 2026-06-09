@@ -8,20 +8,8 @@
     "subtitle": "Sublimação, canecas, impressão 3D e laser em um painel leve.",
     "whatsappMessage": "Olá, seu pedido foi concluído.",
     "cloudUrl": "https://raw.githubusercontent.com/ericleandro/estamp/main/subkp.json",
-    "theme": "pastel",
-    "palette": {
-      "--themeBg": "linear-gradient(135deg,hsl(225 80% 97%),hsl(304 80% 94%))",
-      "--themeCard": "hsl(225 80% 99%)",
-      "--themeSoft": "hsl(304 70% 96%)",
-      "--themeInput": "#ffffff",
-      "--themeText": "#172033",
-      "--themeMuted": "#64748b",
-      "--themeLine": "hsl(225 45% 88%)",
-      "--themeButton": "hsl(50 60% 97%)",
-      "--themePrimary": "hsl(50 45% 30%)",
-      "--themePrimary2": "hsl(50 50% 42%)",
-      "--themeCol": "hsla(304,60%,97%,.80)"
-    },
+    "theme": "default",
+    "palette": null,
     "menus": {
       "dash": "DASHBOARD",
       "board": "FLUXO DE TRABALHO",
@@ -66,7 +54,7 @@
       "total": 0,
       "paid": 0,
       "date": "",
-      "status": "NOVO",
+      "status": "ARTE/MODELAGEM",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -103,6 +91,11 @@
           "from": "ARTE/MODELAGEM",
           "to": "NOVO",
           "at": "2026-06-08T23:53:47.133Z"
+        },
+        {
+          "from": "NOVO",
+          "to": "ARTE/MODELAGEM",
+          "at": "2026-06-09T12:03:28.821Z"
         }
       ]
     },
@@ -123,7 +116,7 @@
       "total": 0,
       "paid": 0,
       "date": "",
-      "status": "NOVO",
+      "status": "ARTE/MODELAGEM",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -140,6 +133,11 @@
           "from": "CRM WHATSAPP",
           "to": "NOVO",
           "at": "2026-06-08T18:59:30.416Z"
+        },
+        {
+          "from": "NOVO",
+          "to": "ARTE/MODELAGEM",
+          "at": "2026-06-09T12:03:26.372Z"
         }
       ]
     },
@@ -605,7 +603,7 @@
       "total": 0,
       "paid": 0,
       "date": "",
-      "status": "ARTE/MODELAGEM",
+      "status": "PRODUÇÃO",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -677,6 +675,11 @@
           "from": "AGUARDANDO APROVAÇÃO",
           "to": "ARTE/MODELAGEM",
           "at": "2026-06-08T23:53:54.826Z"
+        },
+        {
+          "from": "ARTE/MODELAGEM",
+          "to": "PRODUÇÃO",
+          "at": "2026-06-09T11:56:59.178Z"
         }
       ]
     },
@@ -1944,6 +1947,28 @@
   ],
   "dailyEntries": [
     {
+      "id": "yiv0chh8m9mq6wola0",
+      "employeeId": "70bqxvdq2lpmp36bdth",
+      "type": "Diária",
+      "date": "2026-06-09",
+      "qty": 0.5,
+      "period": "Manhã",
+      "value": 70,
+      "total": 35,
+      "notes": ""
+    },
+    {
+      "id": "1o3verllkp8mq6woa4m",
+      "employeeId": "6i6qi0bwbc7mp7878go",
+      "type": "Diária",
+      "date": "2026-06-09",
+      "qty": 0.5,
+      "period": "Manhã",
+      "value": 65,
+      "total": 32.5,
+      "notes": ""
+    },
+    {
       "id": "tbblmjgqn7mq5mvmh2",
       "employeeId": "70bqxvdq2lpmp36bdth",
       "type": "Diária",
@@ -2400,5 +2425,5 @@
   ],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-06-09T01:20:29.085Z"
+  "exportedAt": "2026-06-09T17:27:51.884Z"
 }
