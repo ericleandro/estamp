@@ -383,7 +383,7 @@
       "id": "qhp0dulscnnmpsod939",
       "os": "OS-1022",
       "entryDate": "2026-05-30",
-      "exitDate": "",
+      "exitDate": "2026-06-13",
       "client": "ELIAS",
       "phone": "8496870873",
       "cat": "Sublimação",
@@ -396,7 +396,7 @@
       "total": 0,
       "paid": 0,
       "date": "2026-06-08",
-      "status": "ACABAMENTO",
+      "status": "PRONTO PARA ENTREGA",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -433,6 +433,11 @@
           "from": "PRODUÇÃO",
           "to": "ACABAMENTO",
           "at": "2026-06-08T23:04:35.426Z"
+        },
+        {
+          "from": "ACABAMENTO",
+          "to": "PRONTO PARA ENTREGA",
+          "at": "2026-06-13T13:45:20.101Z"
         }
       ]
     },
@@ -2556,5 +2561,5 @@
   ],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-06-11T23:27:13.776Z"
+  "exportedAt": "2026-06-13T13:46:10.724Z"
 }
