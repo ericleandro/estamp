@@ -54,7 +54,7 @@
       "total": 0,
       "paid": 0,
       "date": "",
-      "status": "AGUARDANDO APROVAÇÃO",
+      "status": "PRODUÇÃO",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -81,6 +81,11 @@
           "from": "ARTE/MODELAGEM",
           "to": "AGUARDANDO APROVAÇÃO",
           "at": "2026-06-11T00:59:28.336Z"
+        },
+        {
+          "from": "AGUARDANDO APROVAÇÃO",
+          "to": "PRODUÇÃO",
+          "at": "2026-06-15T12:51:06.138Z"
         }
       ]
     },
@@ -396,7 +401,7 @@
       "total": 0,
       "paid": 0,
       "date": "2026-06-08",
-      "status": "PRONTO PARA ENTREGA",
+      "status": "PEDIDOS ENTREGUES",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -438,6 +443,11 @@
           "from": "ACABAMENTO",
           "to": "PRONTO PARA ENTREGA",
           "at": "2026-06-13T13:45:20.101Z"
+        },
+        {
+          "from": "PRONTO PARA ENTREGA",
+          "to": "PEDIDOS ENTREGUES",
+          "at": "2026-06-13T13:46:45.477Z"
         }
       ]
     },
@@ -886,7 +896,7 @@
       "total": 1575,
       "paid": 0,
       "date": "",
-      "status": "PRONTO PARA ENTREGA",
+      "status": "PEDIDOS ENTREGUES",
       "payment": "Pendente",
       "nfStatus": "Não emitida",
       "nfDate": "",
@@ -940,6 +950,11 @@
           "from": "ACABAMENTO",
           "to": "PRONTO PARA ENTREGA",
           "at": "2026-06-08T23:06:01.359Z"
+        },
+        {
+          "from": "PRONTO PARA ENTREGA",
+          "to": "PEDIDOS ENTREGUES",
+          "at": "2026-06-13T13:46:40.332Z"
         }
       ]
     },
@@ -2561,5 +2576,5 @@
   ],
   "priceProducts": [],
   "quickQuotes": [],
-  "exportedAt": "2026-06-13T13:46:10.724Z"
+  "exportedAt": "2026-06-16T02:29:58.935Z"
 }
